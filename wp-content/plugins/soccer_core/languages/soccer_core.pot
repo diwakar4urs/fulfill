@@ -1,0 +1,336 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-12-13 14:11+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: shortcodes/class-slider.php:85
+msgid "slide"
+msgstr ""
+
+#: admin/post-types/fixture.php:30 admin/post-types/fixture.php:31
+#: admin/post-types/fixture.php:32
+msgid "Fixture & Results"
+msgstr ""
+
+#: admin/post-types/fixture.php:33
+msgid "Add Fixture & Results"
+msgstr ""
+
+#: admin/post-types/fixture.php:34
+msgid "Add New Fixture & Results"
+msgstr ""
+
+#: admin/post-types/fixture.php:35 admin/post-types/gallery.php:35
+#: admin/post-types/league.php:35 admin/post-types/player.php:35
+#: admin/post-types/sliders.php:35
+msgid "Edit"
+msgstr ""
+
+#: admin/post-types/fixture.php:36
+msgid "Edit Fixture & Results"
+msgstr ""
+
+#: admin/post-types/fixture.php:37
+msgid "New Fixture & Results"
+msgstr ""
+
+#: admin/post-types/fixture.php:38 admin/post-types/fixture.php:39
+msgid "View Fixture & Results"
+msgstr ""
+
+#: admin/post-types/fixture.php:40
+msgid "Search Fixture & Results"
+msgstr ""
+
+#: admin/post-types/fixture.php:41
+msgid "No Fixture & Results found"
+msgstr ""
+
+#: admin/post-types/fixture.php:42
+msgid "No Fixture & Results found in trash"
+msgstr ""
+
+#: admin/post-types/fixture.php:43
+msgid "Parent Fixture & Results"
+msgstr ""
+
+#: admin/post-types/fixture.php:47
+msgid "This is where you can add new Fixture"
+msgstr ""
+
+#: admin/post-types/fixture.php:72 admin/post-types/gallery.php:72
+#: admin/post-types/league.php:72 admin/post-types/player.php:72
+msgid "Search Category"
+msgstr ""
+
+#: admin/post-types/fixture.php:73 admin/post-types/gallery.php:73
+#: admin/post-types/league.php:73 admin/post-types/player.php:73
+msgid "All Category"
+msgstr ""
+
+#: admin/post-types/fixture.php:74 admin/post-types/gallery.php:74
+#: admin/post-types/league.php:74 admin/post-types/player.php:74
+msgid "Parent Category"
+msgstr ""
+
+#: admin/post-types/fixture.php:75 admin/post-types/gallery.php:75
+#: admin/post-types/league.php:75 admin/post-types/player.php:75
+msgid "Parent Category:"
+msgstr ""
+
+#: admin/post-types/fixture.php:76 admin/post-types/gallery.php:76
+#: admin/post-types/league.php:76 admin/post-types/player.php:76
+msgid "Edit Category"
+msgstr ""
+
+#: admin/post-types/fixture.php:77 admin/post-types/gallery.php:77
+#: admin/post-types/league.php:77 admin/post-types/player.php:77
+msgid "Update Category"
+msgstr ""
+
+#: admin/post-types/fixture.php:78 admin/post-types/gallery.php:78
+#: admin/post-types/league.php:78 admin/post-types/player.php:78
+msgid "Add New Category"
+msgstr ""
+
+#: admin/post-types/fixture.php:79 admin/post-types/gallery.php:79
+#: admin/post-types/league.php:79 admin/post-types/player.php:79
+msgid "New Category Name"
+msgstr ""
+
+#: admin/post-types/fixture.php:80
+msgid "Result Category"
+msgstr ""
+
+#: admin/post-types/gallery.php:30 admin/post-types/gallery.php:31
+#: admin/post-types/gallery.php:32
+msgid "Gallery"
+msgstr ""
+
+#: admin/post-types/gallery.php:33
+msgid "Add Gallery"
+msgstr ""
+
+#: admin/post-types/gallery.php:34
+msgid "Add New Gallery"
+msgstr ""
+
+#: admin/post-types/gallery.php:36
+msgid "Edit Gallery"
+msgstr ""
+
+#: admin/post-types/gallery.php:37
+msgid "New Gallery"
+msgstr ""
+
+#: admin/post-types/gallery.php:38 admin/post-types/gallery.php:39
+msgid "View Gallery"
+msgstr ""
+
+#: admin/post-types/gallery.php:40
+msgid "Search Gallery"
+msgstr ""
+
+#: admin/post-types/gallery.php:41
+msgid "No Gallery found"
+msgstr ""
+
+#: admin/post-types/gallery.php:42
+msgid "No Gallery found in trash"
+msgstr ""
+
+#: admin/post-types/gallery.php:43
+msgid "Parent Gallery"
+msgstr ""
+
+#: admin/post-types/gallery.php:47
+msgid "This is where you can add new Gallery"
+msgstr ""
+
+#: admin/post-types/gallery.php:80
+msgid "Category"
+msgstr ""
+
+#: admin/post-types/league.php:30
+msgid "League Table"
+msgstr ""
+
+#: admin/post-types/league.php:31 admin/post-types/league.php:32
+msgid "League"
+msgstr ""
+
+#: admin/post-types/league.php:33
+msgid "Add League"
+msgstr ""
+
+#: admin/post-types/league.php:34
+msgid "Add New League"
+msgstr ""
+
+#: admin/post-types/league.php:36
+msgid "Edit League"
+msgstr ""
+
+#: admin/post-types/league.php:37
+msgid "New League"
+msgstr ""
+
+#: admin/post-types/league.php:38 admin/post-types/league.php:39
+msgid "View League"
+msgstr ""
+
+#: admin/post-types/league.php:40
+msgid "Search League"
+msgstr ""
+
+#: admin/post-types/league.php:41
+msgid "No League found"
+msgstr ""
+
+#: admin/post-types/league.php:42
+msgid "No League found in trash"
+msgstr ""
+
+#: admin/post-types/league.php:43
+msgid "Parent League"
+msgstr ""
+
+#: admin/post-types/league.php:47
+msgid "This is where you can add new League"
+msgstr ""
+
+#: admin/post-types/league.php:80
+msgid "League Category"
+msgstr ""
+
+#: admin/post-types/player.php:30 admin/post-types/player.php:31
+#: admin/post-types/player.php:32
+msgid "Player"
+msgstr ""
+
+#: admin/post-types/player.php:33
+msgid "Add Player"
+msgstr ""
+
+#: admin/post-types/player.php:34
+msgid "Add New Player"
+msgstr ""
+
+#: admin/post-types/player.php:36
+msgid "Edit Player"
+msgstr ""
+
+#: admin/post-types/player.php:37
+msgid "New Player"
+msgstr ""
+
+#: admin/post-types/player.php:38 admin/post-types/player.php:39
+msgid "View Player"
+msgstr ""
+
+#: admin/post-types/player.php:40
+msgid "Search Player"
+msgstr ""
+
+#: admin/post-types/player.php:41
+msgid "No Player found"
+msgstr ""
+
+#: admin/post-types/player.php:42
+msgid "No Player found in trash"
+msgstr ""
+
+#: admin/post-types/player.php:43
+msgid "Parent Player"
+msgstr ""
+
+#: admin/post-types/player.php:47
+msgid "This is where you can add new Player"
+msgstr ""
+
+#: admin/post-types/player.php:80
+msgid "Player Category"
+msgstr ""
+
+#: admin/post-types/sliders.php:30 admin/post-types/sliders.php:31
+#: admin/post-types/sliders.php:32
+msgid "Sliders"
+msgstr ""
+
+#: admin/post-types/sliders.php:33
+msgid "Add Slider"
+msgstr ""
+
+#: admin/post-types/sliders.php:34
+msgid "Add New Slider"
+msgstr ""
+
+#: admin/post-types/sliders.php:36
+msgid "Edit Slider"
+msgstr ""
+
+#: admin/post-types/sliders.php:37
+msgid "New Slider"
+msgstr ""
+
+#: admin/post-types/sliders.php:38 admin/post-types/sliders.php:39
+msgid "View Slider"
+msgstr ""
+
+#: admin/post-types/sliders.php:40
+msgid "Search Slider"
+msgstr ""
+
+#: admin/post-types/sliders.php:41
+msgid "No Slider found"
+msgstr ""
+
+#: admin/post-types/sliders.php:42
+msgid "No Slider found in trash"
+msgstr ""
+
+#: admin/post-types/sliders.php:43
+msgid "Parent Slider"
+msgstr ""
+
+#: admin/post-types/sliders.php:47
+msgid "This is where you can add new Slider"
+msgstr ""
+
+#: admin/post-types/sliders.php:71
+msgid "Shortcode"
+msgstr ""
+
+#: admin/widgets/get-in-touch.php:137
+msgid "Hello"
+msgstr ""
+
+#. Name of the plugin
+msgid "Soccer Finder"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This plugin is used for creating custom post types and other functionality "
+"for Soccer Theme"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://themographics.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "Themographics"
+msgstr ""

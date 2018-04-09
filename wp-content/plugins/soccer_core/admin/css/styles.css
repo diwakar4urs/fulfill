@@ -1,0 +1,80 @@
+.z-builder-wrapper .icons-wrapper {
+  border: 1px solid #dfdfdf !important;
+  float: left !important;
+  margin-top: 10px !important;
+  max-height: 136px !important;
+  overflow: auto !important;
+  font-family: 'FontAwesome' !important;
+  width: 100%;
+  min-height: 300px;
+  margin-bottom:15px;
+}
+.z-builder-wrapper .selected-icon i {
+  margin-top: 3px;
+  font-size: 14px;
+}
+.z-builder-wrapper .icon-picker-elm {
+  position: relative;
+  font-size: 14px;
+  line-height: 35px;
+  width: 35px;
+  color: #494949;
+  background: #fff;
+  display: block;
+  text-align: center;
+  float: left;
+  border: 1px solid #e1e1e1;
+  margin-left: -1px;
+  margin-top: -1px;
+  transition: all 0.1s ease-out;
+  -moz-transition: all 0.1s ease-out;
+  -webkit-transition: all 0.1s ease-out;
+  -o-transition: all 0.1s ease-out;
+  cursor: pointer;
+}
+.z-builder-wrapper .icon-picker-elm:hover {
+  color: #27AE60;
+  z-index: 10;
+  -webkit-transform: scale(1.2);
+  -moz-transform: scale(1.2);
+  -o-transform: scale(1.2);
+  transform: scale(1.2);
+}
+.z-builder-wrapper .icons-wrapper span.active {
+  color: #27AE60 !important;
+  -webkit-transform: scale(1.2);
+  -moz-transform: scale(1.2);
+  -o-transform: scale(1.2);
+  transform: scale(1.2);
+  z-index: 100;
+}
+.z-builder-wrapper .icons-input-wrap {
+  float: left;
+  position: relative;
+  width: 100%;
+}
+.z-builder-wrapper .selected-icon {
+  padding: 5px !important;
+  position: absolute !important;
+  left: 337px !important;
+  height: 21px !important;
+  border-left: 1px solid #e7e7e7 !important;
+  top: 2px !important;
+  width: 28px !important;
+  text-align: center !important;
+  color: #27AE60 !important;
+  background-color: #FFF !important;
+  font-family: 'FontAwesome' !important;
+}
+.text-field.icons-search{
+	background: #FFF;
+    border: 1px solid #dfdfdf;
+    height: 33px;
+}
+.edit-term-icon .z-builder-wrapper{
+	    width: 42%;
+    float: left;
+}
+.edit-term-icon .z-builder-wrapper .selected-icon{
+	left: 324px !important;
+}

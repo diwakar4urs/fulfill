@@ -1,0 +1,4109 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-12-13 14:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: 404.php:10
+msgid "We are really sorry but the page you requested is missing."
+msgstr ""
+
+#: 404.php:27 inc/subheaders/class-subheaders.php:122
+msgid "404"
+msgstr ""
+
+#: archive.php:35 comments.php:40
+msgid "Author Avatar"
+msgstr ""
+
+#: archive.php:182 single.php:104 template-parts/content-page.php:86
+#: template-parts/content-search.php:80
+#: framework-customizations/extensions/shortcodes/shortcodes/blog-posts/views/grid.php:101
+#: framework-customizations/extensions/shortcodes/shortcodes/blog-posts/views/list.php:102
+msgid "by"
+msgstr ""
+
+#: archive.php:204 template-parts/content-page.php:109
+#: template-parts/content-search.php:102
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-match/views/view.php:74
+msgid "Read More"
+msgstr ""
+
+#: archive.php:213
+msgid "Nothing Found."
+msgstr ""
+
+#: attachment.php:17 comments.php:114 single.php:107 single.php:107
+#: single.php:107 framework-customizations/theme/options/posts/post.php:123
+#: framework-customizations/theme/options/posts/tg_fixture.php:141
+#: framework-customizations/extensions/shortcodes/shortcodes/blog-posts/views/grid.php:104
+#: framework-customizations/extensions/shortcodes/shortcodes/blog-posts/views/grid.php:104
+#: framework-customizations/extensions/shortcodes/shortcodes/blog-posts/views/grid.php:104
+#: framework-customizations/extensions/shortcodes/shortcodes/blog-posts/views/list.php:105
+#: framework-customizations/extensions/shortcodes/shortcodes/blog-posts/views/list.php:105
+#: framework-customizations/extensions/shortcodes/shortcodes/blog-posts/views/list.php:105
+msgid "Comments"
+msgstr ""
+
+#: attachment.php:22 page.php:33 page.php:71 single-tg_fixture.php:199
+#: single-tg_player.php:243 single.php:206 template-parts/template-blank.php:13
+msgid "Pages:"
+msgstr ""
+
+#: attachment.php:26 page.php:37 page.php:75 single-tg_fixture.php:203
+#: single-tg_player.php:247 single.php:210 template-parts/template-blank.php:17
+msgid "Page"
+msgstr ""
+
+#: comments.php:91
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:92
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:104
+msgid "Name"
+msgstr ""
+
+#: comments.php:108
+msgid "Email"
+msgstr ""
+
+#: comments.php:116
+msgid "Log out"
+msgstr ""
+
+#: comments.php:125
+msgid " "
+msgstr ""
+
+#: comments.php:130
+msgid "Cancel reply"
+msgstr ""
+
+#: comments.php:131 woocommerce/single-review-popup.php:39
+#: framework-customizations/extensions/shortcodes/shortcodes/contact/views/view.php:27
+msgid "Send"
+msgstr ""
+
+#: search.php:18
+msgid ""
+"If you are not happy with the results below please search another keyword."
+msgstr ""
+
+#: search.php:22 search.php:63
+msgid "Type any keyword"
+msgstr ""
+
+#: search.php:24 search.php:66
+msgid "search"
+msgstr ""
+
+#: search.php:50 template-parts/content-none.php:15
+#: template-parts/content-page.php:118
+msgid "Nothing Found"
+msgstr ""
+
+#: search.php:51 template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: search.php:53
+msgid "Suggestions: "
+msgstr ""
+
+#: search.php:55
+msgid "Make sure all words are spelled correctly "
+msgstr ""
+
+#: search.php:56
+msgid "Try more general keywords, especially if you are attempting a name "
+msgstr ""
+
+#: searchform.php:9 inc/subheaders/class-subheaders.php:146
+msgid "Search"
+msgstr ""
+
+#: single-tg_fixture.php:91
+msgid "VS"
+msgstr ""
+
+#: single-tg_fixture.php:116 single-tg_fixture.php:124
+#: template-parts/template-comingsoon.php:75
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-match/views/view.php:92
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-match/views/view.php:100
+msgid "Day"
+msgstr ""
+
+#: single-tg_fixture.php:117 single-tg_fixture.php:127
+#: template-parts/template-comingsoon.php:78
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-match/views/view.php:93
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-match/views/view.php:103
+msgid "Hour"
+msgstr ""
+
+#: single-tg_fixture.php:118 single-tg_fixture.php:130
+#: template-parts/template-comingsoon.php:81
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-match/views/view.php:94
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-match/views/view.php:106
+msgid "Minute"
+msgstr ""
+
+#: single-tg_fixture.php:119 single-tg_fixture.php:132
+#: template-parts/template-comingsoon.php:83
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-match/views/view.php:95
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-match/views/view.php:108
+msgid "Second"
+msgstr ""
+
+#: single-tg_fixture.php:220
+msgid "Categories: "
+msgstr ""
+
+#: single-tg_player.php:161
+#: framework-customizations/extensions/shortcodes/shortcodes/players-grid/views/view.php:109
+msgid "%"
+msgstr ""
+
+#: single-tg_player.php:168
+msgid "Nick Name :"
+msgstr ""
+
+#: single-tg_player.php:172
+msgid "Team :"
+msgstr ""
+
+#: single-tg_player.php:176
+msgid "Birth Date :"
+msgstr ""
+
+#: single-tg_player.php:180
+msgid "age :"
+msgstr ""
+
+#: single-tg_player.php:181
+msgid "Year old"
+msgstr ""
+
+#: single-tg_player.php:184
+msgid "Birth Place :"
+msgstr ""
+
+#: single-tg_player.php:188
+msgid "Height :"
+msgstr ""
+
+#: single-tg_player.php:189
+msgid "cm "
+msgstr ""
+
+#: single-tg_player.php:192
+msgid "Weight :"
+msgstr ""
+
+#: single-tg_player.php:193
+msgid "kg "
+msgstr ""
+
+#: single-tg_player.php:196
+msgid "Field position :"
+msgstr ""
+
+#: single-tg_player.php:200
+msgid "First professional club :"
+msgstr ""
+
+#: single-tg_player.php:214
+msgid "Social Networks :"
+msgstr ""
+
+#: single.php:221
+msgid "Tags: "
+msgstr ""
+
+#: single.php:249
+msgid "About the Author"
+msgstr ""
+
+#: inc/hooks.php:132
+msgid "Soccer Acumen "
+msgstr ""
+
+#: inc/hooks.php:154 woocommerce/single-product/product-image.php:47
+msgid "Placeholder"
+msgstr ""
+
+#: inc/template-tags.php:86
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:91
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:149
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/template-tags.php:151
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/template-tags.php:153
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: inc/template-tags.php:156
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr ""
+
+#: inc/template-tags.php:158
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr ""
+
+#: inc/template-tags.php:160
+msgctxt "post format archive title"
+msgid "Images"
+msgstr ""
+
+#: inc/template-tags.php:162
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr ""
+
+#: inc/template-tags.php:164
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr ""
+
+#: inc/template-tags.php:166
+msgctxt "post format archive title"
+msgid "Links"
+msgstr ""
+
+#: inc/template-tags.php:168
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr ""
+
+#: inc/template-tags.php:170
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr ""
+
+#: inc/template-tags.php:172
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr ""
+
+#: plugins/install-plugin.php:45
+msgid "Soccer Core"
+msgstr ""
+
+#: plugins/install-plugin.php:54
+msgid "Unyson"
+msgstr ""
+
+#: plugins/install-plugin.php:59
+msgid "Loco Translate"
+msgstr ""
+
+#: plugins/install-plugin.php:64
+msgid "Jetpack by WordPress.com"
+msgstr ""
+
+#: plugins/install-plugin.php:69
+msgid "Contact Form 7"
+msgstr ""
+
+#: plugins/install-plugin.php:74
+msgid "Woocommerce"
+msgstr ""
+
+#: plugins/install-plugin.php:102
+msgid "Install Required Plugins"
+msgstr ""
+
+#: plugins/install-plugin.php:103
+msgid "Install Plugins"
+msgstr ""
+
+#: plugins/install-plugin.php:104
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: plugins/install-plugin.php:105
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: plugins/install-plugin.php:106
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/install-plugin.php:107
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/install-plugin.php:108
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/install-plugin.php:109
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/install-plugin.php:110
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/install-plugin.php:111
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/install-plugin.php:112
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/install-plugin.php:113
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/install-plugin.php:114
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/install-plugin.php:115
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/install-plugin.php:116
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: plugins/install-plugin.php:117
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: plugins/install-plugin.php:118
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: template-parts/content-none.php:22
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:30
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content.php:19
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Name of the template
+msgid "Blank Page"
+msgstr ""
+
+#: template-parts/template-comingsoon.php:67
+msgid "Days"
+msgstr ""
+
+#: template-parts/template-comingsoon.php:68
+msgid "Hours"
+msgstr ""
+
+#: template-parts/template-comingsoon.php:69
+msgid "Minutes"
+msgstr ""
+
+#: template-parts/template-comingsoon.php:70
+msgid "Seconds"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:25
+#, php-format
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:27
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:45
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-review-popup.php:29
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-review-popup.php:29
+msgid "Be the first to review"
+msgstr ""
+
+#: woocommerce/single-review-popup.php:30
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-review-popup.php:49
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/single-review-popup.php:53
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-review-popup.php:54
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-review-popup.php:55
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-review-popup.php:56
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-review-popup.php:57
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-review-popup.php:58
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-review-popup.php:59
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-review-popup.php:72
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/wishlist-view.php:54
+msgid "Product Name"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:60
+msgid "Unit Price"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:73
+msgid "Stock Status"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:129
+msgid "Free!"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:139
+msgid "Out of Stock"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:142
+msgid "In Stock"
+msgstr ""
+
+#: woocommerce/woocommerce-listing.php:84
+msgid "Shop banner"
+msgstr ""
+
+#. Name of the theme
+#: demo-content/soccer-acumen/manifest.php:7
+#: framework-customizations/extensions/shortcodes/shortcodes/about-us/config.php:11
+#: framework-customizations/extensions/shortcodes/shortcodes/blog-posts/config.php:11
+#: framework-customizations/extensions/shortcodes/shortcodes/clients-logo/config.php:11
+#: framework-customizations/extensions/shortcodes/shortcodes/contact/config.php:11
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-box/config.php:9
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/config.php:9
+#: framework-customizations/extensions/shortcodes/shortcodes/counter/config.php:11
+#: framework-customizations/extensions/shortcodes/shortcodes/google-map/config.php:9
+#: framework-customizations/extensions/shortcodes/shortcodes/image-frame/config.php:11
+#: framework-customizations/extensions/shortcodes/shortcodes/league-detail/config.php:11
+#: framework-customizations/extensions/shortcodes/shortcodes/match-latest-result/config.php:11
+#: framework-customizations/extensions/shortcodes/shortcodes/other-fixture/config.php:11
+#: framework-customizations/extensions/shortcodes/shortcodes/players-grid/config.php:11
+#: framework-customizations/extensions/shortcodes/shortcodes/points-table/config.php:11
+#: framework-customizations/extensions/shortcodes/shortcodes/pro-soccer-history/config.php:11
+#: framework-customizations/extensions/shortcodes/shortcodes/section-heading/config.php:8
+#: framework-customizations/extensions/shortcodes/shortcodes/soccer-gallery/config.php:11
+#: framework-customizations/extensions/shortcodes/shortcodes/soccer-textblock/config.php:11
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonial/config.php:11
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-fixtures/config.php:11
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-match/config.php:11
+#: framework-customizations/extensions/shortcodes/shortcodes/video/config.php:11
+msgid "Soccer Acumen"
+msgstr ""
+
+#: inc/footers/class-footers.php:19
+msgid " | All Rights Reserved "
+msgstr ""
+
+#: inc/footers/class-footers.php:46 inc/footers/class-footers.php:114
+msgid "Login"
+msgstr ""
+
+#: inc/footers/class-footers.php:60
+msgid "Remember Me"
+msgstr ""
+
+#: inc/footers/class-footers.php:63
+msgid "Forgot Password"
+msgstr ""
+
+#: inc/footers/class-footers.php:68
+msgid "Login Now"
+msgstr ""
+
+#: inc/footers/class-footers.php:71
+msgid "Not a Member?"
+msgstr ""
+
+#: inc/footers/class-footers.php:71 inc/footers/class-footers.php:87
+#: inc/footers/class-footers.php:111
+msgid "Signup"
+msgstr ""
+
+#: inc/footers/class-footers.php:107
+msgid "We will email you your password."
+msgstr ""
+
+#: inc/footers/class-footers.php:114
+msgid "Already have an account?"
+msgstr ""
+
+#: inc/headers/class-headers.php:264
+msgid "login"
+msgstr ""
+
+#: inc/headers/class-headers.php:267
+msgid "Register"
+msgstr ""
+
+#: inc/headers/class-headers.php:336
+msgid "keyword"
+msgstr ""
+
+#: inc/headers/class-headers.php:339
+msgid "Start typing and press Enter to search"
+msgstr ""
+
+#: inc/helpers/general-helpers.php:41
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:206
+msgid "Sidebar"
+msgstr ""
+
+#: inc/helpers/general-helpers.php:43
+msgid "Default sidebar for home and archive pages"
+msgstr ""
+
+#: inc/helpers/general-helpers.php:51
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/helpers/general-helpers.php:53
+msgid "Shop sidebar for shop page and shop archives"
+msgstr ""
+
+#: inc/helpers/general-helpers.php:61
+msgid "Footer Column 1"
+msgstr ""
+
+#: inc/helpers/general-helpers.php:63
+msgid "It will be used for footer column 1"
+msgstr ""
+
+#: inc/helpers/general-helpers.php:70
+msgid "Footer Column 2"
+msgstr ""
+
+#: inc/helpers/general-helpers.php:72
+msgid "It will be used for footer column 2"
+msgstr ""
+
+#: inc/helpers/general-helpers.php:79
+msgid "Footer Column 3"
+msgstr ""
+
+#: inc/helpers/general-helpers.php:81
+msgid "It will be used for footer column 3"
+msgstr ""
+
+#: inc/helpers/general-helpers.php:520 inc/helpers/general-helpers.php:548
+msgid "Select Slider"
+msgstr ""
+
+#: inc/helpers/general-helpers.php:571
+msgid "Select Team"
+msgstr ""
+
+#: inc/helpers/general-helpers.php:593
+msgid "Select Top Player"
+msgstr ""
+
+#: inc/helpers/general-helpers.php:619
+msgid "Select Product"
+msgstr ""
+
+#: inc/helpers/general-helpers.php:651
+msgid "Select Fixture"
+msgstr ""
+
+#: inc/helpers/general-helpers.php:799
+msgid "Facebook"
+msgstr ""
+
+#: inc/helpers/general-helpers.php:800
+#: framework-customizations/theme/options/social-sharing-settings.php:26
+msgid "Twitter"
+msgstr ""
+
+#: inc/helpers/general-helpers.php:801
+#: framework-customizations/theme/options/social-sharing-settings.php:54
+msgid "E-mail"
+msgstr ""
+
+#: inc/helpers/general-helpers.php:802
+msgid "Tumblr"
+msgstr ""
+
+#: inc/helpers/general-helpers.php:803
+msgid "Dribbble"
+msgstr ""
+
+#: inc/helpers/general-helpers.php:804
+#: framework-customizations/theme/options/social-sharing-settings.php:82
+msgid "Instagram"
+msgstr ""
+
+#: inc/helpers/general-helpers.php:805
+#: framework-customizations/theme/options/social-sharing-settings.php:96
+msgid "Youtube"
+msgstr ""
+
+#: inc/helpers/general-helpers.php:908
+msgid "Display Photo"
+msgstr ""
+
+#: inc/notifications/email_notifications.php:85
+msgid "Thanks, have a lovely day."
+msgstr ""
+
+#: inc/notifications/email_notifications.php:86
+msgid " | All Rights Reserved"
+msgstr ""
+
+#: inc/notifications/email_notifications.php:124
+msgid "email-header"
+msgstr ""
+
+#: inc/notifications/email_notifications.php:136
+msgid "Contact Form Received"
+msgstr ""
+
+#: inc/subheaders/class-subheaders.php:138
+msgid "Archive"
+msgstr ""
+
+#: inc/subheaders/class-subheaders.php:198
+#: framework-customizations/theme/options/posts/tg_league.php:129
+msgid "Home"
+msgstr ""
+
+#: inc/woocommerce/class-woocommerce.php:66
+msgid "Share this:"
+msgstr ""
+
+#: inc/woocommerce/class-woocommerce.php:159
+msgid "Write your review "
+msgstr ""
+
+#: inc/woocommerce/class-woocommerce.php:162
+msgid "Reference: "
+msgstr ""
+
+#: inc/woocommerce/class-woocommerce.php:162
+msgid "N/A"
+msgstr ""
+
+#: inc/woocommerce/class-woocommerce.php:169
+msgid "Write the first review"
+msgstr ""
+
+#: inc/woocommerce/class-woocommerce.php:228
+msgid "CART12"
+msgstr ""
+
+#: inc/woocommerce/class-woocommerce.php:301
+msgid "Some error occur,please try again later."
+msgstr ""
+
+#: inc/woocommerce/class-woocommerce.php:328
+msgid "Cart updated"
+msgstr ""
+
+#: inc/woocommerce/class-woocommerce.php:330
+#: inc/woocommerce/class-woocommerce.php:330 woocommerce/cart/mini-cart.php:88
+msgid "Checkout"
+msgstr ""
+
+#: inc/woocommerce/class-woocommerce.php:366
+#: framework-customizations/extensions/shortcodes/shortcodes/soccer-gallery/views/gallery.php:67
+#: framework-customizations/extensions/shortcodes/shortcodes/soccer-gallery/views/scroll-gallery.php:67
+msgid "All"
+msgstr ""
+
+#: inc/woocommerce/class-woocommerce.php:367
+msgid "10"
+msgstr ""
+
+#: inc/woocommerce/class-woocommerce.php:368
+msgid "20"
+msgstr ""
+
+#: inc/woocommerce/class-woocommerce.php:369
+msgid "50"
+msgstr ""
+
+#: inc/woocommerce/class-woocommerce.php:370
+msgid "100"
+msgstr ""
+
+#: inc/woocommerce/class-woocommerce.php:418
+msgid "Code: "
+msgstr ""
+
+#: inc/woocommerce/class-woocommerce.php:420
+msgid "Our Price: "
+msgstr ""
+
+#: inc/woocommerce/class-woocommerce.php:428
+msgid "Qty:"
+msgstr ""
+
+#: inc/woocommerce/class-woocommerce.php:439
+msgid "add to cart"
+msgstr ""
+
+#: inc/woocommerce/class-woocommerce.php:446
+msgid "Select Options"
+msgstr ""
+
+#: inc/woocommerce/class-woocommerce.php:455
+msgid "See More Details"
+msgstr ""
+
+#: woocommerce/cart/cart.php:33 woocommerce/cart/cart.php:63
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:34 woocommerce/cart/cart.php:78
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:35 woocommerce/cart/cart.php:81
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:36 woocommerce/cart/cart.php:97
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:51
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:75
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:111
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:113
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:114
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:118
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:78
+msgid "Subtotal: "
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:82
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:87
+msgid "View Cart"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:22
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/layouts/featured-product.php:52
+#: woocommerce/layouts/grid-layout-carousel.php:62
+msgid "buy now"
+msgstr ""
+
+#: woocommerce/loop/sale-flash.php:26
+#: woocommerce/single-product/sale-flash.php:26
+msgid "Sale"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:30
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/meta.php:31
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/related.php:42
+msgid "Related products"
+msgstr ""
+
+#: framework-customizations/theme/options/api-settings.php:11
+msgid "Api Settings"
+msgstr ""
+
+#: framework-customizations/theme/options/api-settings.php:14
+msgid "Mail Chimp"
+msgstr ""
+
+#: framework-customizations/theme/options/api-settings.php:20
+msgid "MailChimp Key"
+msgstr ""
+
+#: framework-customizations/theme/options/api-settings.php:21
+msgid ""
+"Enter your MailChimp Key Here. Default: b1c640ffabcea48f48530987ffdae147-us11"
+msgstr ""
+
+#: framework-customizations/theme/options/api-settings.php:25
+msgid "MailChimp List"
+msgstr ""
+
+#: framework-customizations/theme/options/api-settings.php:31
+msgid "Google Key"
+msgstr ""
+
+#: framework-customizations/theme/options/api-settings.php:37
+msgid "Google Map Key"
+msgstr ""
+
+#: framework-customizations/theme/options/api-settings.php:38
+msgid "Enter your Google Key Here."
+msgstr ""
+
+#: framework-customizations/theme/options/colors-settings.php:9
+msgid "Theme Colors"
+msgstr ""
+
+#: framework-customizations/theme/options/colors-settings.php:13
+msgid "Theme Colors Settings"
+msgstr ""
+
+#: framework-customizations/theme/options/colors-settings.php:20
+msgid "Theme Color"
+msgstr ""
+
+#: framework-customizations/theme/options/colors-settings.php:22
+#: framework-customizations/theme/options/posts/tg_player.php:288
+#: framework-customizations/extensions/shortcodes/shortcodes/google-map/options.php:51
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:24
+msgid "Default"
+msgstr ""
+
+#: framework-customizations/theme/options/colors-settings.php:23
+msgid "Custom Styling"
+msgstr ""
+
+#: framework-customizations/theme/options/colors-settings.php:30
+msgid "Select Theme Color"
+msgstr ""
+
+#: framework-customizations/theme/options/colors-settings.php:36
+msgid "Body Background Color"
+msgstr ""
+
+#: framework-customizations/theme/options/commingsoon-settings.php:9
+msgid "Coming Soon"
+msgstr ""
+
+#: framework-customizations/theme/options/commingsoon-settings.php:12
+msgid "Coming Soon Settings"
+msgstr ""
+
+#: framework-customizations/theme/options/commingsoon-settings.php:18
+msgid "Maintenance Mode"
+msgstr ""
+
+#: framework-customizations/theme/options/commingsoon-settings.php:21
+#: framework-customizations/theme/options/commingsoon-settings.php:57
+#: framework-customizations/theme/options/headers-settings.php:89
+#: framework-customizations/theme/options/headers-settings.php:102
+#: framework-customizations/theme/options/headers-settings.php:116
+#: framework-customizations/theme/options/headers-settings.php:130
+#: framework-customizations/theme/options/headers-settings.php:144
+#: framework-customizations/theme/options/headers-settings.php:158
+#: framework-customizations/theme/options/headers-settings.php:205
+#: framework-customizations/theme/options/headers-settings.php:219
+#: framework-customizations/theme/options/social-settings.php:49
+#: framework-customizations/theme/options/social-sharing-settings.php:18
+#: framework-customizations/theme/options/social-sharing-settings.php:32
+#: framework-customizations/theme/options/social-sharing-settings.php:46
+#: framework-customizations/theme/options/social-sharing-settings.php:60
+#: framework-customizations/theme/options/social-sharing-settings.php:74
+#: framework-customizations/theme/options/social-sharing-settings.php:88
+#: framework-customizations/theme/options/social-sharing-settings.php:102
+#: framework-customizations/theme/options/subheaders-settings.php:38
+#: framework-customizations/theme/options/posts/page.php:48
+#: framework-customizations/theme/options/posts/post.php:48
+#: framework-customizations/theme/options/posts/post.php:113
+#: framework-customizations/theme/options/posts/post.php:127
+#: framework-customizations/theme/options/posts/post.php:141
+#: framework-customizations/theme/options/posts/post.php:155
+#: framework-customizations/theme/options/posts/post.php:169
+#: framework-customizations/theme/options/posts/product.php:48
+#: framework-customizations/theme/options/posts/tg_fixture.php:48
+#: framework-customizations/theme/options/posts/tg_fixture.php:145
+#: framework-customizations/theme/options/posts/tg_fixture.php:159
+#: framework-customizations/theme/options/posts/tg_fixture.php:173
+#: framework-customizations/theme/options/posts/tg_league.php:19
+#: framework-customizations/theme/options/posts/tg_league.php:62
+#: framework-customizations/theme/options/posts/tg_player.php:48
+#: framework-customizations/theme/options/posts/tg_player.php:182
+#: framework-customizations/theme/options/posts/tg_slider.php:39
+#: framework-customizations/theme/options/posts/tg_slider.php:53
+#: framework-customizations/extensions/shortcodes/shortcodes/about-us/options.php:50
+#: framework-customizations/extensions/shortcodes/shortcodes/clients-logo/options.php:15
+#: framework-customizations/extensions/shortcodes/shortcodes/clients-logo/options.php:59
+#: framework-customizations/extensions/shortcodes/shortcodes/league-detail/options.php:91
+#: framework-customizations/extensions/shortcodes/shortcodes/other-fixture/options.php:40
+#: framework-customizations/extensions/shortcodes/shortcodes/other-fixture/options.php:54
+#: framework-customizations/extensions/shortcodes/shortcodes/players-grid/options.php:81
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-fixtures/options.php:35
+msgid "Enable"
+msgstr ""
+
+#: framework-customizations/theme/options/commingsoon-settings.php:25
+#: framework-customizations/theme/options/commingsoon-settings.php:61
+#: framework-customizations/theme/options/headers-settings.php:85
+#: framework-customizations/theme/options/headers-settings.php:106
+#: framework-customizations/theme/options/headers-settings.php:120
+#: framework-customizations/theme/options/headers-settings.php:134
+#: framework-customizations/theme/options/headers-settings.php:148
+#: framework-customizations/theme/options/headers-settings.php:162
+#: framework-customizations/theme/options/headers-settings.php:209
+#: framework-customizations/theme/options/headers-settings.php:223
+#: framework-customizations/theme/options/social-settings.php:45
+#: framework-customizations/theme/options/social-sharing-settings.php:22
+#: framework-customizations/theme/options/social-sharing-settings.php:36
+#: framework-customizations/theme/options/social-sharing-settings.php:50
+#: framework-customizations/theme/options/social-sharing-settings.php:64
+#: framework-customizations/theme/options/social-sharing-settings.php:78
+#: framework-customizations/theme/options/social-sharing-settings.php:92
+#: framework-customizations/theme/options/social-sharing-settings.php:106
+#: framework-customizations/theme/options/subheaders-settings.php:42
+#: framework-customizations/theme/options/posts/page.php:52
+#: framework-customizations/theme/options/posts/post.php:52
+#: framework-customizations/theme/options/posts/post.php:117
+#: framework-customizations/theme/options/posts/post.php:131
+#: framework-customizations/theme/options/posts/post.php:145
+#: framework-customizations/theme/options/posts/post.php:159
+#: framework-customizations/theme/options/posts/post.php:173
+#: framework-customizations/theme/options/posts/product.php:52
+#: framework-customizations/theme/options/posts/tg_fixture.php:52
+#: framework-customizations/theme/options/posts/tg_fixture.php:149
+#: framework-customizations/theme/options/posts/tg_fixture.php:163
+#: framework-customizations/theme/options/posts/tg_fixture.php:177
+#: framework-customizations/theme/options/posts/tg_league.php:23
+#: framework-customizations/theme/options/posts/tg_league.php:66
+#: framework-customizations/theme/options/posts/tg_player.php:52
+#: framework-customizations/theme/options/posts/tg_player.php:178
+#: framework-customizations/theme/options/posts/tg_slider.php:43
+#: framework-customizations/theme/options/posts/tg_slider.php:57
+#: framework-customizations/extensions/shortcodes/shortcodes/about-us/options.php:46
+#: framework-customizations/extensions/shortcodes/shortcodes/clients-logo/options.php:19
+#: framework-customizations/extensions/shortcodes/shortcodes/clients-logo/options.php:63
+#: framework-customizations/extensions/shortcodes/shortcodes/league-detail/options.php:95
+#: framework-customizations/extensions/shortcodes/shortcodes/other-fixture/options.php:44
+#: framework-customizations/extensions/shortcodes/shortcodes/other-fixture/options.php:58
+#: framework-customizations/extensions/shortcodes/shortcodes/players-grid/options.php:85
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-fixtures/options.php:39
+msgid "Disable"
+msgstr ""
+
+#: framework-customizations/theme/options/commingsoon-settings.php:30
+#: framework-customizations/theme/options/headers-settings.php:172
+#: framework-customizations/theme/options/headers-settings.php:233
+#: framework-customizations/theme/options/social-settings.php:18
+#: framework-customizations/theme/options/woocommerce-settings.php:107
+#: framework-customizations/theme/options/posts/tg_player.php:192
+#: framework-customizations/extensions/shortcodes/shortcodes/about-us/options.php:10
+#: framework-customizations/extensions/shortcodes/shortcodes/contact/options.php:8
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-box/options.php:17
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/options.php:9
+#: framework-customizations/extensions/shortcodes/shortcodes/points-table/options.php:9
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonial/options.php:52
+#: framework-customizations/extensions/shortcodes/shortcodes/video/options.php:10
+msgid "Title"
+msgstr ""
+
+#: framework-customizations/theme/options/commingsoon-settings.php:35
+#: framework-customizations/extensions/shortcodes/shortcodes/about-us/options.php:17
+#: framework-customizations/extensions/shortcodes/shortcodes/blog-posts/options.php:106
+#: framework-customizations/extensions/shortcodes/shortcodes/pro-soccer-history/options.php:97
+#: framework-customizations/extensions/shortcodes/shortcodes/section-heading/options.php:13
+#: framework-customizations/extensions/shortcodes/shortcodes/soccer-textblock/options.php:11
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonial/options.php:27
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-match/options.php:30
+msgid "Description"
+msgstr ""
+
+#: framework-customizations/theme/options/commingsoon-settings.php:40
+#: framework-customizations/theme/options/footer-settings.php:34
+#: framework-customizations/theme/options/posts/tg_slider.php:162
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:36
+msgid "Background Image"
+msgstr ""
+
+#: framework-customizations/theme/options/commingsoon-settings.php:41
+msgid "Upload Your background image on coming soon page."
+msgstr ""
+
+#: framework-customizations/theme/options/commingsoon-settings.php:46
+msgid "Choose Date"
+msgstr ""
+
+#: framework-customizations/theme/options/commingsoon-settings.php:54
+msgid "Enable Newsletter"
+msgstr ""
+
+#: framework-customizations/theme/options/contact-settings.php:9
+#: framework-customizations/extensions/shortcodes/shortcodes/contact/config.php:9
+#: framework-customizations/extensions/shortcodes/shortcodes/contact/config.php:10
+msgid "Contact Form"
+msgstr ""
+
+#: framework-customizations/theme/options/contact-settings.php:12
+msgid "Contact Form Settings"
+msgstr ""
+
+#: framework-customizations/theme/options/contact-settings.php:17
+msgid "Success Message"
+msgstr ""
+
+#: framework-customizations/theme/options/contact-settings.php:19
+msgid "Add success message for contact form"
+msgstr ""
+
+#: framework-customizations/theme/options/contact-settings.php:23
+msgid "Error Message"
+msgstr ""
+
+#: framework-customizations/theme/options/contact-settings.php:25
+msgid "Add error message for contact form"
+msgstr ""
+
+#: framework-customizations/theme/options/contact-settings.php:29
+msgid "Email Address"
+msgstr ""
+
+#: framework-customizations/theme/options/contact-settings.php:31
+msgid ""
+"Please add email address for contact form. Leave it empty to send email to "
+"WordPress site admin."
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:9
+msgid "Footer"
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:13
+msgid "Footer Settings"
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:20
+msgid "ON / OFF Widget Area"
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:21
+msgid "Enable or Disable footer widget area"
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:24
+#: framework-customizations/theme/options/typo-settings.php:24
+#: framework-customizations/extensions/shortcodes/shortcodes/image-frame/options.php:15
+msgid "Off"
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:28
+#: framework-customizations/theme/options/footer-settings.php:60
+#: framework-customizations/theme/options/typo-settings.php:28
+#: framework-customizations/theme/options/woocommerce-settings.php:36
+#: framework-customizations/theme/options/woocommerce-settings.php:67
+#: framework-customizations/theme/options/woocommerce-settings.php:92
+#: framework-customizations/theme/options/woocommerce-settings.php:140
+#: framework-customizations/theme/options/posts/tg_player.php:326
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:90
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:125
+#: framework-customizations/extensions/shortcodes/shortcodes/google-map/options.php:89
+#: framework-customizations/extensions/shortcodes/shortcodes/image-frame/options.php:19
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:165
+msgid "ON"
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:35
+msgid "Image for footer right side background"
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:40
+msgid "Texture Background Image"
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:41
+msgid "Image for footer left side background"
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:46
+msgid "Footer Copyright"
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:52
+msgid "On / Off Menu"
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:53
+msgid "On / Off footer menu"
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:56
+msgid "OFf"
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:9
+msgid "General"
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:13
+#: framework-customizations/theme/options/woocommerce-settings.php:12
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:10
+msgid "General Settings"
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:17
+#: framework-customizations/theme/options/woocommerce-settings.php:112
+#: framework-customizations/theme/options/posts/post.php:187
+#: framework-customizations/theme/options/posts/tg_gallery.php:27
+#: framework-customizations/theme/options/posts/tg_slider.php:132
+#: framework-customizations/theme/options/posts/tg_slider.php:191
+#: framework-customizations/extensions/shortcodes/shortcodes/points-table/options.php:21
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonial/options.php:41
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-match/options.php:15
+msgid "Image"
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:18
+msgid "Upload a 404 image"
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:24
+msgid "404 Title"
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:29
+msgid "404 Error Message"
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:33
+msgid "Custom CSS"
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:34
+msgid ""
+"Add your custom css code here if you want to target specifically on "
+"different elements."
+msgstr ""
+
+#: framework-customizations/theme/options/headers-settings.php:9
+msgid "Headers"
+msgstr ""
+
+#: framework-customizations/theme/options/headers-settings.php:13
+msgid "Header Settings"
+msgstr ""
+
+#: framework-customizations/theme/options/headers-settings.php:18
+msgid "Main Logo"
+msgstr ""
+
+#: framework-customizations/theme/options/headers-settings.php:19
+msgid "It will display only  at home pages."
+msgstr ""
+
+#: framework-customizations/theme/options/headers-settings.php:20
+msgid ""
+"Upload Your Logo Here the preferred size is 251 by 57. It will be shown at "
+"Whole site excepty at home page."
+msgstr ""
+
+#: framework-customizations/theme/options/headers-settings.php:31
+msgid "Header Type"
+msgstr ""
+
+#: framework-customizations/theme/options/headers-settings.php:35
+#: framework-customizations/theme/options/headers-settings.php:46
+msgid "Header V1"
+msgstr ""
+
+#: framework-customizations/theme/options/headers-settings.php:57
+msgid "Header V2"
+msgstr ""
+
+#: framework-customizations/theme/options/headers-settings.php:68
+msgid "Select header type."
+msgstr ""
+
+#: framework-customizations/theme/options/headers-settings.php:81
+msgid "Top Strip"
+msgstr ""
+
+#: framework-customizations/theme/options/headers-settings.php:82
+msgid "Enable top strip."
+msgstr ""
+
+#: framework-customizations/theme/options/headers-settings.php:98
+msgid "Enable Registration"
+msgstr ""
+
+#: framework-customizations/theme/options/headers-settings.php:99
+msgid "Enable frontend Registration"
+msgstr ""
+
+#: framework-customizations/theme/options/headers-settings.php:112
+msgid "Enable Login"
+msgstr ""
+
+#: framework-customizations/theme/options/headers-settings.php:113
+msgid "Enable frontend Login"
+msgstr ""
+
+#: framework-customizations/theme/options/headers-settings.php:126
+#: framework-customizations/theme/options/headers-settings.php:215
+msgid "Shoping Cart"
+msgstr ""
+
+#: framework-customizations/theme/options/headers-settings.php:127
+#: framework-customizations/theme/options/headers-settings.php:216
+msgid "Enable Shoping Cart"
+msgstr ""
+
+#: framework-customizations/theme/options/headers-settings.php:140
+msgid "Search Bar"
+msgstr ""
+
+#: framework-customizations/theme/options/headers-settings.php:141
+msgid "Enable Search Bar"
+msgstr ""
+
+#: framework-customizations/theme/options/headers-settings.php:154
+#: framework-customizations/theme/options/headers-settings.php:201
+#: framework-customizations/theme/options/social-settings.php:8
+msgid "Social Media"
+msgstr ""
+
+#: framework-customizations/theme/options/headers-settings.php:155
+#: framework-customizations/theme/options/headers-settings.php:202
+msgid "Enable Social Media"
+msgstr ""
+
+#: framework-customizations/theme/options/headers-settings.php:166
+#: framework-customizations/theme/options/headers-settings.php:227
+#: framework-customizations/theme/options/social-settings.php:12
+#: framework-customizations/theme/options/posts/tg_player.php:186
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonial/options.php:46
+msgid "Social Icons"
+msgstr ""
+
+#: framework-customizations/theme/options/headers-settings.php:169
+#: framework-customizations/theme/options/headers-settings.php:230
+#: framework-customizations/theme/options/social-settings.php:15
+#: framework-customizations/theme/options/posts/tg_player.php:189
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonial/options.php:49
+msgid ""
+"Add Social Icons as much as you want. Choose the icon, url and the title"
+msgstr ""
+
+#: framework-customizations/theme/options/headers-settings.php:175
+#: framework-customizations/theme/options/headers-settings.php:236
+#: framework-customizations/theme/options/social-settings.php:21
+#: framework-customizations/theme/options/posts/tg_player.php:195
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonial/options.php:55
+msgid "The Title of the Link"
+msgstr ""
+
+#: framework-customizations/theme/options/headers-settings.php:181
+#: framework-customizations/theme/options/headers-settings.php:242
+#: framework-customizations/theme/options/social-settings.php:27
+#: framework-customizations/theme/options/posts/tg_player.php:207
+#: framework-customizations/extensions/shortcodes/shortcodes/counter/options.php:28
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonial/options.php:61
+msgid "Choos Icon"
+msgstr ""
+
+#: framework-customizations/theme/options/headers-settings.php:184
+#: framework-customizations/theme/options/headers-settings.php:251
+#: framework-customizations/theme/options/social-settings.php:30
+#: framework-customizations/theme/options/posts/tg_player.php:210
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonial/options.php:64
+msgid "Url"
+msgstr ""
+
+#: framework-customizations/theme/options/headers-settings.php:187
+#: framework-customizations/theme/options/headers-settings.php:254
+#: framework-customizations/theme/options/social-settings.php:33
+#: framework-customizations/theme/options/posts/tg_player.php:213
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonial/options.php:67
+msgid "The link to the social profile."
+msgstr ""
+
+#: framework-customizations/theme/options/headers-settings.php:245
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:31
+msgid "Background Color"
+msgstr ""
+
+#: framework-customizations/theme/options/headers-settings.php:248
+msgid "Select background color for social icon."
+msgstr ""
+
+#: framework-customizations/theme/options/social-settings.php:41
+#: framework-customizations/extensions/shortcodes/shortcodes/about-us/options.php:42
+#: framework-customizations/extensions/shortcodes/shortcodes/clients-logo/options.php:55
+msgid "Open in New Window"
+msgstr ""
+
+#: framework-customizations/theme/options/social-settings.php:42
+#: framework-customizations/extensions/shortcodes/shortcodes/about-us/options.php:43
+#: framework-customizations/extensions/shortcodes/shortcodes/clients-logo/options.php:56
+msgid ""
+"The links will be opened into new tab or window when your visitors clicked "
+"on the link."
+msgstr ""
+
+#: framework-customizations/theme/options/social-sharing-settings.php:8
+msgid "Social Sharing"
+msgstr ""
+
+#: framework-customizations/theme/options/social-sharing-settings.php:12
+msgid "Faceobook"
+msgstr ""
+
+#: framework-customizations/theme/options/social-sharing-settings.php:15
+#: framework-customizations/theme/options/social-sharing-settings.php:29
+#: framework-customizations/theme/options/social-sharing-settings.php:43
+#: framework-customizations/theme/options/social-sharing-settings.php:57
+#: framework-customizations/theme/options/social-sharing-settings.php:71
+#: framework-customizations/theme/options/social-sharing-settings.php:85
+#: framework-customizations/theme/options/social-sharing-settings.php:99
+msgid "Sharing on/off"
+msgstr ""
+
+#: framework-customizations/theme/options/social-sharing-settings.php:40
+msgid "Tumbler"
+msgstr ""
+
+#: framework-customizations/theme/options/social-sharing-settings.php:68
+msgid "Dribble"
+msgstr ""
+
+#: framework-customizations/theme/options/subheaders-settings.php:9
+msgid "Sub Headers"
+msgstr ""
+
+#: framework-customizations/theme/options/subheaders-settings.php:13
+#: framework-customizations/theme/options/posts/tg_league.php:9
+msgid "Sub Header Settings"
+msgstr ""
+
+#: framework-customizations/theme/options/subheaders-settings.php:19
+msgid "404 Page Title"
+msgstr ""
+
+#: framework-customizations/theme/options/subheaders-settings.php:24
+msgid "Archives Sub Heading"
+msgstr ""
+
+#: framework-customizations/theme/options/subheaders-settings.php:29
+msgid "Search Sub Heading"
+msgstr ""
+
+#: framework-customizations/theme/options/subheaders-settings.php:34
+#: framework-customizations/theme/options/posts/page.php:44
+#: framework-customizations/theme/options/posts/post.php:44
+#: framework-customizations/theme/options/posts/product.php:44
+#: framework-customizations/theme/options/posts/tg_fixture.php:44
+#: framework-customizations/theme/options/posts/tg_league.php:58
+#: framework-customizations/theme/options/posts/tg_player.php:44
+msgid "Breadcrumbs"
+msgstr ""
+
+#: framework-customizations/theme/options/subheaders-settings.php:35
+#: framework-customizations/theme/options/posts/page.php:45
+#: framework-customizations/theme/options/posts/post.php:45
+#: framework-customizations/theme/options/posts/product.php:45
+#: framework-customizations/theme/options/posts/tg_fixture.php:45
+#: framework-customizations/theme/options/posts/tg_league.php:59
+#: framework-customizations/theme/options/posts/tg_player.php:45
+msgid "Enable or Disable Breadcrumbs."
+msgstr ""
+
+#: framework-customizations/theme/options/subheaders-settings.php:48
+#: framework-customizations/theme/options/posts/page.php:58
+#: framework-customizations/theme/options/posts/post.php:58
+#: framework-customizations/theme/options/posts/product.php:58
+#: framework-customizations/theme/options/posts/tg_fixture.php:58
+#: framework-customizations/theme/options/posts/tg_league.php:72
+#: framework-customizations/theme/options/posts/tg_player.php:58
+msgid "Sub Header bg color"
+msgstr ""
+
+#: framework-customizations/theme/options/subheaders-settings.php:53
+#: framework-customizations/theme/options/posts/page.php:62
+#: framework-customizations/theme/options/posts/post.php:62
+#: framework-customizations/theme/options/posts/product.php:62
+#: framework-customizations/theme/options/posts/tg_fixture.php:62
+#: framework-customizations/theme/options/posts/tg_league.php:76
+#: framework-customizations/theme/options/posts/tg_player.php:62
+msgid "Upload background image"
+msgstr ""
+
+#: framework-customizations/theme/options/subheaders-settings.php:54
+#: framework-customizations/theme/options/posts/page.php:63
+#: framework-customizations/theme/options/posts/post.php:63
+#: framework-customizations/theme/options/posts/product.php:63
+#: framework-customizations/theme/options/posts/tg_fixture.php:63
+#: framework-customizations/theme/options/posts/tg_league.php:77
+#: framework-customizations/theme/options/posts/tg_player.php:63
+msgid "It will override background color"
+msgstr ""
+
+#: framework-customizations/theme/options/typo-settings.php:9
+msgid "Typography"
+msgstr ""
+
+#: framework-customizations/theme/options/typo-settings.php:13
+msgid "Typography Settings"
+msgstr ""
+
+#: framework-customizations/theme/options/typo-settings.php:20
+msgid "Enable / Disable Typography"
+msgstr ""
+
+#: framework-customizations/theme/options/typo-settings.php:21
+msgid ""
+"If you disable this, these options below would not be applied to frontend"
+msgstr ""
+
+#: framework-customizations/theme/options/typo-settings.php:44
+msgid "Regular Font"
+msgstr ""
+
+#: framework-customizations/theme/options/typo-settings.php:45
+msgid "Default Font for body p ul li"
+msgstr ""
+
+#: framework-customizations/theme/options/typo-settings.php:60
+msgid "H1 Heading"
+msgstr ""
+
+#: framework-customizations/theme/options/typo-settings.php:61
+msgid "Choose Your H1 Heading font-family, font-size, color, font-weight."
+msgstr ""
+
+#: framework-customizations/theme/options/typo-settings.php:76
+msgid "H2 Heading"
+msgstr ""
+
+#: framework-customizations/theme/options/typo-settings.php:77
+msgid "Choose Your H2 Heading font-family, font-size, color, font-weight."
+msgstr ""
+
+#: framework-customizations/theme/options/typo-settings.php:92
+msgid "H3 Heading"
+msgstr ""
+
+#: framework-customizations/theme/options/typo-settings.php:93
+msgid "Choose Your H3 Heading font-family, font-size, color, font-weight."
+msgstr ""
+
+#: framework-customizations/theme/options/typo-settings.php:108
+msgid "H4 Heading"
+msgstr ""
+
+#: framework-customizations/theme/options/typo-settings.php:109
+msgid "Choose Your H4 Heading font-family, font-size, color, font-weight."
+msgstr ""
+
+#: framework-customizations/theme/options/typo-settings.php:124
+msgid "H5 Heading"
+msgstr ""
+
+#: framework-customizations/theme/options/typo-settings.php:125
+msgid "Choose Your H5 Heading font-family, font-size, color, font-weight."
+msgstr ""
+
+#: framework-customizations/theme/options/typo-settings.php:140
+msgid "H6 Heading"
+msgstr ""
+
+#: framework-customizations/theme/options/typo-settings.php:141
+msgid "Choose Your H6 Heading font-family, font-size, color, font-weight."
+msgstr ""
+
+#: framework-customizations/theme/options/woocommerce-settings.php:9
+msgid "Woocommerce Settings"
+msgstr ""
+
+#: framework-customizations/theme/options/woocommerce-settings.php:23
+msgid "Shop per page products."
+msgstr ""
+
+#: framework-customizations/theme/options/woocommerce-settings.php:29
+msgid "Detail Page Sidebar ON/OFF"
+msgstr ""
+
+#: framework-customizations/theme/options/woocommerce-settings.php:32
+#: framework-customizations/theme/options/woocommerce-settings.php:63
+#: framework-customizations/theme/options/woocommerce-settings.php:88
+#: framework-customizations/theme/options/woocommerce-settings.php:136
+#: framework-customizations/theme/options/posts/tg_player.php:325
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:94
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:129
+#: framework-customizations/extensions/shortcodes/shortcodes/google-map/options.php:88
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:169
+msgid "OFF"
+msgstr ""
+
+#: framework-customizations/theme/options/woocommerce-settings.php:43
+#: framework-customizations/theme/options/woocommerce-settings.php:74
+#: framework-customizations/theme/options/woocommerce-settings.php:147
+msgid "Sidebar Position"
+msgstr ""
+
+#: framework-customizations/theme/options/woocommerce-settings.php:44
+msgid "Set sidebar position at detail page."
+msgstr ""
+
+#: framework-customizations/theme/options/woocommerce-settings.php:46
+#: framework-customizations/theme/options/woocommerce-settings.php:76
+#: framework-customizations/theme/options/woocommerce-settings.php:149
+msgid "Left"
+msgstr ""
+
+#: framework-customizations/theme/options/woocommerce-settings.php:47
+#: framework-customizations/theme/options/woocommerce-settings.php:77
+#: framework-customizations/theme/options/woocommerce-settings.php:150
+msgid "Right"
+msgstr ""
+
+#: framework-customizations/theme/options/woocommerce-settings.php:53
+msgid "Shop Page Settings"
+msgstr ""
+
+#: framework-customizations/theme/options/woocommerce-settings.php:60
+msgid "Shop Page Sidebar ON/OFF"
+msgstr ""
+
+#: framework-customizations/theme/options/woocommerce-settings.php:84
+msgid "Product Slider ON/OFF"
+msgstr ""
+
+#: framework-customizations/theme/options/woocommerce-settings.php:85
+msgid "Add featured products in slider."
+msgstr ""
+
+#: framework-customizations/theme/options/woocommerce-settings.php:97
+msgid "Add Slides"
+msgstr ""
+
+#: framework-customizations/theme/options/woocommerce-settings.php:102
+msgid "Slider"
+msgstr ""
+
+#: framework-customizations/theme/options/woocommerce-settings.php:108
+msgid "Enter The title"
+msgstr ""
+
+#: framework-customizations/theme/options/woocommerce-settings.php:113
+msgid "Upload The image"
+msgstr ""
+
+#: framework-customizations/theme/options/woocommerce-settings.php:117
+msgid "Feature Products"
+msgstr ""
+
+#: framework-customizations/theme/options/woocommerce-settings.php:119
+msgid "Select The Feature Product Here"
+msgstr ""
+
+#: framework-customizations/theme/options/woocommerce-settings.php:126
+msgid "Archive Page Settings"
+msgstr ""
+
+#: framework-customizations/theme/options/woocommerce-settings.php:133
+msgid "Archive Page Sidebar ON/OFF"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/simple.php:29
+msgid "Availability"
+msgstr ""
+
+#: framework-customizations/includes/option-types/new-icon/class-fw-option-type-new-icon.php:141
+msgid "Unknown Set"
+msgstr ""
+
+#: framework-customizations/includes/option-types/new-icon/class-fw-option-type-new-icon.php:171
+msgid "Web Application Icons"
+msgstr ""
+
+#: framework-customizations/includes/option-types/new-icon/class-fw-option-type-new-icon.php:172
+msgid "Hand Icons"
+msgstr ""
+
+#: framework-customizations/includes/option-types/new-icon/class-fw-option-type-new-icon.php:173
+msgid "Transportation Icons"
+msgstr ""
+
+#: framework-customizations/includes/option-types/new-icon/class-fw-option-type-new-icon.php:174
+msgid "Gender Icons"
+msgstr ""
+
+#: framework-customizations/includes/option-types/new-icon/class-fw-option-type-new-icon.php:175
+msgid "File Type Icons"
+msgstr ""
+
+#: framework-customizations/includes/option-types/new-icon/class-fw-option-type-new-icon.php:178
+msgid "Payment Icons"
+msgstr ""
+
+#: framework-customizations/includes/option-types/new-icon/class-fw-option-type-new-icon.php:180
+msgid "Currency Icons"
+msgstr ""
+
+#: framework-customizations/includes/option-types/new-icon/class-fw-option-type-new-icon.php:181
+msgid "Text Editor Icons"
+msgstr ""
+
+#: framework-customizations/includes/option-types/new-icon/class-fw-option-type-new-icon.php:182
+msgid "Directional Icons"
+msgstr ""
+
+#: framework-customizations/includes/option-types/new-icon/class-fw-option-type-new-icon.php:183
+msgid "Video Player Icons"
+msgstr ""
+
+#: framework-customizations/includes/option-types/new-icon/class-fw-option-type-new-icon.php:184
+msgid "Brand Icons"
+msgstr ""
+
+#: framework-customizations/includes/option-types/new-icon/class-fw-option-type-new-icon.php:185
+msgid "Medical Icons"
+msgstr ""
+
+#: framework-customizations/includes/option-types/new-icon/class-fw-option-type-new-icon.php:186
+msgid "Soccer Icons"
+msgstr ""
+
+#: framework-customizations/includes/option-types/new-icon/view.php:39
+msgid "All Categories"
+msgstr ""
+
+#: framework-customizations/includes/option-types/new-icon/view.php:47
+msgid "Icon Search"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:9
+#: framework-customizations/theme/options/posts/post.php:9
+#: framework-customizations/theme/options/posts/product.php:9
+#: framework-customizations/theme/options/posts/tg_fixture.php:9
+#: framework-customizations/theme/options/posts/tg_player.php:9
+msgid "Page Settings"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:18
+#: framework-customizations/theme/options/posts/post.php:18
+#: framework-customizations/theme/options/posts/product.php:18
+#: framework-customizations/theme/options/posts/tg_fixture.php:18
+#: framework-customizations/theme/options/posts/tg_league.php:32
+#: framework-customizations/theme/options/posts/tg_player.php:18
+msgid "Subheader Type"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:19
+#: framework-customizations/theme/options/posts/post.php:19
+#: framework-customizations/theme/options/posts/product.php:19
+#: framework-customizations/theme/options/posts/tg_fixture.php:19
+#: framework-customizations/theme/options/posts/tg_league.php:33
+#: framework-customizations/theme/options/posts/tg_player.php:19
+msgid "Select Subheader Type"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:22
+#: framework-customizations/theme/options/posts/post.php:22
+#: framework-customizations/theme/options/posts/product.php:22
+#: framework-customizations/theme/options/posts/tg_fixture.php:22
+#: framework-customizations/theme/options/posts/tg_league.php:36
+#: framework-customizations/theme/options/posts/tg_player.php:22
+msgid "Default Sub Headers"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:23
+#: framework-customizations/theme/options/posts/post.php:23
+#: framework-customizations/theme/options/posts/product.php:23
+#: framework-customizations/theme/options/posts/tg_fixture.php:23
+#: framework-customizations/theme/options/posts/tg_league.php:37
+#: framework-customizations/theme/options/posts/tg_player.php:23
+msgid "Custom Sub Headers"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:24
+#: framework-customizations/theme/options/posts/page.php:76
+#: framework-customizations/theme/options/posts/post.php:24
+#: framework-customizations/theme/options/posts/post.php:76
+#: framework-customizations/theme/options/posts/product.php:24
+#: framework-customizations/theme/options/posts/product.php:76
+#: framework-customizations/theme/options/posts/tg_fixture.php:24
+#: framework-customizations/theme/options/posts/tg_fixture.php:76
+#: framework-customizations/theme/options/posts/tg_league.php:38
+#: framework-customizations/theme/options/posts/tg_league.php:90
+#: framework-customizations/theme/options/posts/tg_player.php:24
+#: framework-customizations/theme/options/posts/tg_player.php:76
+msgid "TG Slider"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:25
+#: framework-customizations/theme/options/posts/page.php:85
+#: framework-customizations/theme/options/posts/post.php:25
+#: framework-customizations/theme/options/posts/post.php:85
+#: framework-customizations/theme/options/posts/product.php:25
+#: framework-customizations/theme/options/posts/product.php:85
+#: framework-customizations/theme/options/posts/tg_fixture.php:25
+#: framework-customizations/theme/options/posts/tg_fixture.php:85
+#: framework-customizations/theme/options/posts/tg_league.php:39
+#: framework-customizations/theme/options/posts/tg_league.php:99
+#: framework-customizations/theme/options/posts/tg_player.php:25
+#: framework-customizations/theme/options/posts/tg_player.php:85
+msgid "Revolution Slider"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:26
+#: framework-customizations/theme/options/posts/post.php:26
+#: framework-customizations/theme/options/posts/product.php:26
+#: framework-customizations/theme/options/posts/tg_fixture.php:26
+#: framework-customizations/theme/options/posts/tg_league.php:40
+#: framework-customizations/theme/options/posts/tg_player.php:26
+msgid "Custom Shortcode"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:35
+#: framework-customizations/theme/options/posts/post.php:35
+#: framework-customizations/theme/options/posts/product.php:35
+#: framework-customizations/theme/options/posts/tg_fixture.php:35
+#: framework-customizations/theme/options/posts/tg_player.php:35
+msgid "Please default settings from theme options."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:36
+#: framework-customizations/theme/options/posts/post.php:36
+#: framework-customizations/theme/options/posts/product.php:36
+#: framework-customizations/theme/options/posts/tg_fixture.php:36
+#: framework-customizations/theme/options/posts/tg_league.php:50
+#: framework-customizations/theme/options/posts/tg_player.php:36
+msgid "Please Go To Appearance >> Theme Settings >> Subheaders"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:69
+#: framework-customizations/theme/options/posts/post.php:69
+#: framework-customizations/theme/options/posts/product.php:69
+#: framework-customizations/theme/options/posts/tg_fixture.php:69
+#: framework-customizations/theme/options/posts/tg_league.php:83
+#: framework-customizations/theme/options/posts/tg_player.php:69
+msgid "Sub Heading Text color"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:77
+#: framework-customizations/theme/options/posts/post.php:77
+#: framework-customizations/theme/options/posts/product.php:77
+#: framework-customizations/theme/options/posts/tg_fixture.php:77
+#: framework-customizations/theme/options/posts/tg_league.php:91
+#: framework-customizations/theme/options/posts/tg_player.php:77
+msgid "Select Themographic Slider."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:86
+#: framework-customizations/theme/options/posts/post.php:86
+#: framework-customizations/theme/options/posts/product.php:86
+#: framework-customizations/theme/options/posts/tg_fixture.php:86
+#: framework-customizations/theme/options/posts/tg_league.php:100
+#: framework-customizations/theme/options/posts/tg_player.php:86
+msgid "Please Select Revolution slider."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:87
+#: framework-customizations/theme/options/posts/post.php:87
+#: framework-customizations/theme/options/posts/product.php:87
+#: framework-customizations/theme/options/posts/tg_fixture.php:87
+#: framework-customizations/theme/options/posts/tg_league.php:101
+#: framework-customizations/theme/options/posts/tg_player.php:87
+msgid "Please install revolution slider first."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:95
+#: framework-customizations/theme/options/posts/post.php:95
+#: framework-customizations/theme/options/posts/product.php:95
+#: framework-customizations/theme/options/posts/tg_fixture.php:95
+#: framework-customizations/theme/options/posts/tg_league.php:109
+#: framework-customizations/theme/options/posts/tg_player.php:95
+msgid "Custom Slider"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:103
+#: framework-customizations/theme/options/posts/tg_gallery.php:13
+msgid "Post Settings"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:109
+msgid "Author Information"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:110
+msgid "Enable or Disable Author Information at post detail page."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:124
+msgid "Enable or Disable Comments at post detail page."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:137
+msgid "Category"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:138
+msgid "Enable or Disable Category at post detail page."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:151
+msgid "Tags"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:152
+msgid "Enable or Disable Tags at post detail page."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:165
+#: framework-customizations/theme/options/posts/tg_fixture.php:169
+msgid "Social Share"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:166
+msgid "Enable or Disable Social Share at post detail page."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:182
+#: framework-customizations/theme/options/posts/tg_gallery.php:22
+msgid "Post Format"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:183
+#: framework-customizations/theme/options/posts/tg_gallery.php:23
+msgid "Select Post Format"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:188
+msgid "Image Slider"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:189
+#: framework-customizations/theme/options/posts/tg_gallery.php:28
+msgid "Audio/Video"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:199
+#: framework-customizations/theme/options/posts/tg_gallery.php:38
+msgid "Please add featured image."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:200
+msgid "Add Featured image for this post."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:207
+msgid "Add Image Slider"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:208
+msgid "Add Image Slider for your post. (Preferred Size is 1314 by 737.)"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:209
+msgid "Only worked if the post format setting is equal to image slider."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:217
+#: framework-customizations/theme/options/posts/tg_gallery.php:47
+msgid "Audio/Video Link"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:218
+msgid "Only worked if the post format setting is equal to Audio/Video."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_fixture.php:107
+msgid "League Name"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_fixture.php:110
+msgid "Enter the league name"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_fixture.php:113
+msgid "Date/Time of match"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_fixture.php:115
+msgid "Match Date"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_fixture.php:116
+msgid "Please select the match date and time"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_fixture.php:127
+msgid "Match location"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_fixture.php:130
+msgid "Enter the match location"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_fixture.php:133
+msgid "Short description"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_fixture.php:136
+msgid "Add match short description. It will be shown in match detail page."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_fixture.php:142
+msgid "Enable or disable comments at fixture detail page."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_fixture.php:155
+msgid "Categories"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_fixture.php:156
+msgid "Enable or disable categories at fixture detail & listing pages."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_fixture.php:170
+msgid "Enable or disable social share at fixture detail page."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_fixture.php:187
+#: framework-customizations/theme/options/posts/tg_fixture.php:238
+#: framework-customizations/theme/options/posts/tg_player.php:113
+msgid "Team"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_fixture.php:191
+msgid "Select the home team name"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_fixture.php:194
+#: framework-customizations/theme/options/posts/tg_fixture.php:245
+msgid "Team goal"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_fixture.php:197
+#: framework-customizations/theme/options/posts/tg_fixture.php:248
+msgid "Leave this field blank if the match has not start yet"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_fixture.php:200
+#: framework-customizations/theme/options/posts/tg_fixture.php:251
+msgid "Team Result"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_fixture.php:203
+msgid "Leave this field blank if the match has not start yet. eg: Loss"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_fixture.php:214
+#: framework-customizations/extensions/shortcodes/shortcodes/players-grid/config.php:9
+msgid "Players"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_fixture.php:215
+#: framework-customizations/theme/options/posts/tg_fixture.php:266
+msgid "Add player name and time of score"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_fixture.php:219
+#: framework-customizations/theme/options/posts/tg_fixture.php:270
+msgid "Add player name"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_fixture.php:223
+#: framework-customizations/theme/options/posts/tg_fixture.php:274
+msgid "Add time of score eg: 10"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_fixture.php:228
+#: framework-customizations/theme/options/posts/tg_fixture.php:279
+msgid "Add Teams"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_fixture.php:242
+msgid "Select the away team name"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_fixture.php:254
+msgid "Leave this field blank if the match has not start yet. eg: Win"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_fixture.php:265
+msgid "Player name"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_gallery.php:10
+msgid "Date"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_gallery.php:39
+msgid "Add Featured image for this gallery."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_gallery.php:48
+msgid "Only worked if the gallery format setting is equal to Audio/Video."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_league.php:15
+msgid "Subheader"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_league.php:16
+msgid "Enable or Disable Subheader"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_league.php:49
+msgid "Please set default settings from theme options."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_league.php:121
+msgid "Flage Image"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_league.php:124
+msgid "Upload The Flag Image"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_league.php:133
+#: framework-customizations/theme/options/posts/tg_league.php:169
+msgid "Wins"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_league.php:136
+#: framework-customizations/theme/options/posts/tg_league.php:172
+msgid "Add number of matches wins, eg: 5"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_league.php:139
+#: framework-customizations/theme/options/posts/tg_league.php:175
+msgid "Draws"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_league.php:142
+#: framework-customizations/theme/options/posts/tg_league.php:178
+msgid "Add number of matches draws, eg: 5"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_league.php:145
+#: framework-customizations/theme/options/posts/tg_league.php:181
+msgid "Loses"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_league.php:148
+#: framework-customizations/theme/options/posts/tg_league.php:184
+msgid "Add number of matches loses, eg: 5"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_league.php:151
+#: framework-customizations/theme/options/posts/tg_league.php:187
+msgid "Goal Scored"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_league.php:154
+#: framework-customizations/theme/options/posts/tg_league.php:190
+msgid "Add number of goal scored, eg: 5"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_league.php:157
+#: framework-customizations/theme/options/posts/tg_league.php:193
+msgid "Goal Conceded"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_league.php:160
+#: framework-customizations/theme/options/posts/tg_league.php:196
+msgid "Add number of goal conceded, eg: 5"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_league.php:165
+msgid "Away"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:107
+msgid "Nick Name"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:110
+msgid "Add the player nick name"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:116
+msgid "Select team here."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:119
+msgid "Date of birth"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:122
+msgid "Select date of birth"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:125
+msgid "Age"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:128
+msgid "Add the age eg:18"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:131
+msgid "Birth Place"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:134
+msgid "Add the birth place"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:137
+#: framework-customizations/extensions/shortcodes/shortcodes/image-frame/options.php:38
+msgid "Height"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:140
+msgid "Add the height eg: 186 cm (1m 86cm)"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:143
+msgid "Weight"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:146
+msgid "Add the weight, eg: 84 kg - 168 lbs"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:149
+msgid "Player Position"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:152
+msgid "Add the player position name eg: Left/right winger, striker/forward"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:155
+msgid "Rating"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:158
+msgid "1 Star"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:159
+msgid "2 Star"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:160
+msgid "3 Star"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:161
+msgid "4 Star"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:162
+msgid "5 Star"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:166
+msgid "First Club"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:169
+msgid "Add the firest professional club"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:174
+msgid "Enable Social Network"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:175
+msgid "Enable Or Disable The Social Network"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:198
+msgid "Active"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:201
+msgid "add class for highlight the specific social icon"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:227
+msgid "Extra Fields"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:228
+msgid "Add player extra fields"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:235
+msgid "Add Extra Fields"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:247
+#: framework-customizations/extensions/shortcodes/shortcodes/google-map/options.php:10
+msgid "Map height"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:248
+msgid "Add height in PX as : 200, Default is 300"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:253
+#: framework-customizations/extensions/shortcodes/shortcodes/google-map/options.php:16
+msgid "Latitude"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:254
+#: framework-customizations/extensions/shortcodes/shortcodes/google-map/options.php:17
+msgid "Add Latitude"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:259
+#: framework-customizations/extensions/shortcodes/shortcodes/google-map/options.php:22
+msgid "Longitude"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:260
+#: framework-customizations/extensions/shortcodes/shortcodes/google-map/options.php:23
+msgid "Add Longitude"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:271
+#: framework-customizations/extensions/shortcodes/shortcodes/google-map/options.php:34
+msgid "Zoom Level"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:276
+#: framework-customizations/extensions/shortcodes/shortcodes/google-map/options.php:39
+msgid "ROADMAP"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:277
+#: framework-customizations/extensions/shortcodes/shortcodes/google-map/options.php:40
+msgid "HYBRID"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:278
+#: framework-customizations/extensions/shortcodes/shortcodes/google-map/options.php:41
+msgid "SATELLITE"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:279
+#: framework-customizations/extensions/shortcodes/shortcodes/google-map/options.php:42
+msgid "TERRAIN"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:281
+#: framework-customizations/extensions/shortcodes/shortcodes/google-map/options.php:44
+msgid "Map Type"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:282
+#: framework-customizations/extensions/shortcodes/shortcodes/google-map/options.php:45
+msgid "Select map type."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:287
+#: framework-customizations/extensions/shortcodes/shortcodes/google-map/options.php:50
+msgid "NONE"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:289
+#: framework-customizations/extensions/shortcodes/shortcodes/google-map/options.php:52
+#: framework-customizations/extensions/shortcodes/shortcodes/match-latest-result/options.php:19
+msgid "View 2"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:290
+#: framework-customizations/extensions/shortcodes/shortcodes/google-map/options.php:53
+msgid "View 3"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:291
+#: framework-customizations/extensions/shortcodes/shortcodes/google-map/options.php:54
+msgid "View 4"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:292
+#: framework-customizations/extensions/shortcodes/shortcodes/google-map/options.php:55
+msgid "View 5"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:293
+#: framework-customizations/extensions/shortcodes/shortcodes/google-map/options.php:56
+msgid "View 6"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:295
+#: framework-customizations/extensions/shortcodes/shortcodes/google-map/options.php:58
+msgid "Map Style"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:296
+#: framework-customizations/extensions/shortcodes/shortcodes/google-map/options.php:59
+msgid "Select map style. It will override map type."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:301
+#: framework-customizations/extensions/shortcodes/shortcodes/google-map/options.php:64
+msgid "Map Infobox content"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:302
+#: framework-customizations/extensions/shortcodes/shortcodes/google-map/options.php:65
+msgid "Enter the marker content"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:307
+#: framework-customizations/extensions/shortcodes/shortcodes/google-map/options.php:70
+msgid "Map Infobox width"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:308
+#: framework-customizations/extensions/shortcodes/shortcodes/google-map/options.php:71
+msgid "Set max width for the google map info box"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:313
+#: framework-customizations/extensions/shortcodes/shortcodes/google-map/options.php:76
+msgid "Map Infobox height"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:314
+#: framework-customizations/extensions/shortcodes/shortcodes/google-map/options.php:77
+msgid "Set max height for the google map info box"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:319
+#: framework-customizations/extensions/shortcodes/shortcodes/google-map/options.php:82
+msgid "Marker"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:320
+#: framework-customizations/extensions/shortcodes/shortcodes/google-map/options.php:83
+msgid "Add Map Marker"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:328
+#: framework-customizations/extensions/shortcodes/shortcodes/google-map/options.php:91
+msgid "Map Controls"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:329
+#: framework-customizations/extensions/shortcodes/shortcodes/google-map/options.php:92
+msgid "Select map controls."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:334
+#: framework-customizations/extensions/shortcodes/shortcodes/blog-posts/options.php:98
+#: framework-customizations/extensions/shortcodes/shortcodes/google-map/options.php:97
+#: framework-customizations/extensions/shortcodes/shortcodes/image-frame/options.php:58
+#: framework-customizations/extensions/shortcodes/shortcodes/pro-soccer-history/options.php:89
+msgid "Yes"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:335
+#: framework-customizations/extensions/shortcodes/shortcodes/google-map/options.php:98
+#: framework-customizations/extensions/shortcodes/shortcodes/soccer-gallery/options.php:65
+msgid "NO"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:337
+#: framework-customizations/extensions/shortcodes/shortcodes/google-map/options.php:100
+msgid "Map Dragable"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:338
+#: framework-customizations/extensions/shortcodes/shortcodes/google-map/options.php:101
+msgid "Select map dragable?"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:346
+#: framework-customizations/extensions/shortcodes/shortcodes/google-map/options.php:109
+msgid "Scroll"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_player.php:347
+#: framework-customizations/extensions/shortcodes/shortcodes/google-map/options.php:110
+msgid "Enable/Disbale Mouse over scroll."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_slider.php:20
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:26
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:101
+msgid "Margin Top"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_slider.php:30
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:32
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:107
+msgid "Margin Bottom"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_slider.php:35
+#: framework-customizations/extensions/shortcodes/shortcodes/league-detail/options.php:87
+#: framework-customizations/extensions/shortcodes/shortcodes/other-fixture/options.php:50
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-fixtures/options.php:31
+msgid "Enable Pagination"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_slider.php:36
+#: framework-customizations/extensions/shortcodes/shortcodes/league-detail/options.php:88
+#: framework-customizations/extensions/shortcodes/shortcodes/other-fixture/options.php:51
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-fixtures/options.php:32
+msgid "Enable or Disable Pagination."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_slider.php:49
+#: framework-customizations/extensions/shortcodes/shortcodes/clients-logo/options.php:11
+#: framework-customizations/extensions/shortcodes/shortcodes/other-fixture/options.php:36
+#: framework-customizations/extensions/shortcodes/shortcodes/players-grid/options.php:77
+msgid "Auto Start"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_slider.php:50
+#: framework-customizations/extensions/shortcodes/shortcodes/clients-logo/options.php:12
+#: framework-customizations/extensions/shortcodes/shortcodes/other-fixture/options.php:37
+#: framework-customizations/extensions/shortcodes/shortcodes/players-grid/options.php:78
+msgid "Enable or Disable Auto Start."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_slider.php:61
+msgid "Classes"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_slider.php:63
+msgid "Add you custom classes."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_slider.php:72
+msgid "Slider Type"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_slider.php:76
+msgid "Slider V1"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_slider.php:87
+msgid "Slider V2"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_slider.php:98
+msgid "Select slider type."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_slider.php:104
+msgid "Texture Image"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_slider.php:107
+msgid "Upload the background image"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_slider.php:111
+msgid "Add Slide"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_slider.php:116
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-box/options.php:46
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/options.php:39
+msgid "Add"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_slider.php:120
+msgid "Heading"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_slider.php:123
+msgid "Enter the slider heading"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_slider.php:126
+msgid "Sub heading"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_slider.php:129
+msgid "Add slider sub heading"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_slider.php:135
+#: framework-customizations/theme/options/posts/tg_slider.php:194
+msgid "Upload the floating image"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_slider.php:146
+#: framework-customizations/theme/options/posts/tg_slider.php:205
+msgid "Buttons"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_slider.php:147
+#: framework-customizations/theme/options/posts/tg_slider.php:206
+msgid "Add Butons here."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_slider.php:154
+#: framework-customizations/theme/options/posts/tg_slider.php:213
+msgid "Add Button"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_slider.php:165
+msgid "Upload the background images"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_slider.php:168
+msgid "Pattern Image"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_slider.php:171
+msgid "Upload the pattern images"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_slider.php:175
+#: framework-customizations/theme/options/posts/tg_slider.php:180
+msgid "Add Fixture"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_slider.php:184
+msgid "Fixture"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/tg_slider.php:188
+msgid "Select the fixture"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/about-us/config.php:9
+msgid "About Us"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/about-us/config.php:10
+msgid "Display About Us"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/about-us/options.php:16
+#: framework-customizations/extensions/shortcodes/shortcodes/soccer-textblock/options.php:10
+msgid "Label"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/about-us/options.php:18
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/options.php:29
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonial/options.php:29
+msgid "Help tip"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/about-us/options.php:32
+#: framework-customizations/extensions/shortcodes/shortcodes/match-latest-result/options.php:29
+msgid "Button"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/about-us/options.php:37
+#: framework-customizations/extensions/shortcodes/shortcodes/match-latest-result/options.php:34
+#: framework-customizations/extensions/shortcodes/shortcodes/points-table/options.php:111
+msgid "Link"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog-posts/config.php:9
+msgid "Blog Posts"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog-posts/config.php:10
+msgid "Display simple blog posts in grid or in filterable mode."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog-posts/options.php:11
+#: framework-customizations/extensions/shortcodes/shortcodes/soccer-gallery/options.php:37
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-fixtures/options.php:15
+msgid "Select View"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog-posts/options.php:13
+msgid "List"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog-posts/options.php:14
+msgid "Grid"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog-posts/options.php:26
+msgid "Posts get method"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog-posts/options.php:27
+#: framework-customizations/extensions/shortcodes/shortcodes/points-table/options.php:40
+#: framework-customizations/extensions/shortcodes/shortcodes/points-table/options.php:91
+#: framework-customizations/extensions/shortcodes/shortcodes/pro-soccer-history/options.php:18
+msgid "Posts By"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog-posts/options.php:29
+#: framework-customizations/extensions/shortcodes/shortcodes/league-detail/options.php:30
+#: framework-customizations/extensions/shortcodes/shortcodes/players-grid/options.php:20
+#: framework-customizations/extensions/shortcodes/shortcodes/points-table/options.php:58
+#: framework-customizations/extensions/shortcodes/shortcodes/pro-soccer-history/options.php:20
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-fixtures/options.php:69
+msgid "By Categories"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog-posts/options.php:30
+#: framework-customizations/extensions/shortcodes/shortcodes/pro-soccer-history/options.php:21
+msgid "By Posts"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog-posts/options.php:38
+#: framework-customizations/extensions/shortcodes/shortcodes/league-detail/options.php:39
+#: framework-customizations/extensions/shortcodes/shortcodes/players-grid/options.php:29
+#: framework-customizations/extensions/shortcodes/shortcodes/points-table/options.php:67
+#: framework-customizations/extensions/shortcodes/shortcodes/pro-soccer-history/options.php:29
+#: framework-customizations/extensions/shortcodes/shortcodes/soccer-gallery/options.php:45
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-fixtures/options.php:78
+msgid "Select Categories"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog-posts/options.php:42
+#: framework-customizations/extensions/shortcodes/shortcodes/pro-soccer-history/options.php:33
+msgid "Show posts by category selection."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog-posts/options.php:47
+#: framework-customizations/extensions/shortcodes/shortcodes/blog-posts/options.php:48
+#: framework-customizations/extensions/shortcodes/shortcodes/pro-soccer-history/options.php:38
+#: framework-customizations/extensions/shortcodes/shortcodes/pro-soccer-history/options.php:39
+#: framework-customizations/extensions/shortcodes/shortcodes/soccer-gallery/options.php:11
+#: framework-customizations/extensions/shortcodes/shortcodes/soccer-gallery/options.php:12
+msgid "By Order"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog-posts/options.php:50
+#: framework-customizations/extensions/shortcodes/shortcodes/league-detail/options.php:14
+#: framework-customizations/extensions/shortcodes/shortcodes/match-latest-result/options.php:48
+#: framework-customizations/extensions/shortcodes/shortcodes/other-fixture/options.php:14
+#: framework-customizations/extensions/shortcodes/shortcodes/players-grid/options.php:55
+#: framework-customizations/extensions/shortcodes/shortcodes/points-table/options.php:42
+#: framework-customizations/extensions/shortcodes/shortcodes/pro-soccer-history/options.php:41
+#: framework-customizations/extensions/shortcodes/shortcodes/soccer-gallery/options.php:14
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-fixtures/options.php:103
+msgid "ASC"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog-posts/options.php:51
+#: framework-customizations/extensions/shortcodes/shortcodes/league-detail/options.php:15
+#: framework-customizations/extensions/shortcodes/shortcodes/match-latest-result/options.php:49
+#: framework-customizations/extensions/shortcodes/shortcodes/other-fixture/options.php:15
+#: framework-customizations/extensions/shortcodes/shortcodes/players-grid/options.php:56
+#: framework-customizations/extensions/shortcodes/shortcodes/points-table/options.php:43
+#: framework-customizations/extensions/shortcodes/shortcodes/pro-soccer-history/options.php:42
+#: framework-customizations/extensions/shortcodes/shortcodes/soccer-gallery/options.php:15
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-fixtures/options.php:104
+msgid "DESC"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog-posts/options.php:57
+#: framework-customizations/extensions/shortcodes/shortcodes/blog-posts/options.php:58
+#: framework-customizations/extensions/shortcodes/shortcodes/league-detail/options.php:62
+#: framework-customizations/extensions/shortcodes/shortcodes/league-detail/options.php:63
+#: framework-customizations/extensions/shortcodes/shortcodes/match-latest-result/options.php:55
+#: framework-customizations/extensions/shortcodes/shortcodes/other-fixture/options.php:21
+#: framework-customizations/extensions/shortcodes/shortcodes/other-fixture/options.php:22
+#: framework-customizations/extensions/shortcodes/shortcodes/players-grid/options.php:62
+#: framework-customizations/extensions/shortcodes/shortcodes/players-grid/options.php:63
+#: framework-customizations/extensions/shortcodes/shortcodes/pro-soccer-history/options.php:48
+#: framework-customizations/extensions/shortcodes/shortcodes/pro-soccer-history/options.php:49
+#: framework-customizations/extensions/shortcodes/shortcodes/soccer-gallery/options.php:21
+#: framework-customizations/extensions/shortcodes/shortcodes/soccer-gallery/options.php:22
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-fixtures/options.php:110
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-fixtures/options.php:111
+msgid "Order By"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog-posts/options.php:60
+#: framework-customizations/extensions/shortcodes/shortcodes/league-detail/options.php:65
+#: framework-customizations/extensions/shortcodes/shortcodes/match-latest-result/options.php:58
+#: framework-customizations/extensions/shortcodes/shortcodes/other-fixture/options.php:24
+#: framework-customizations/extensions/shortcodes/shortcodes/players-grid/options.php:65
+#: framework-customizations/extensions/shortcodes/shortcodes/points-table/options.php:93
+#: framework-customizations/extensions/shortcodes/shortcodes/pro-soccer-history/options.php:51
+#: framework-customizations/extensions/shortcodes/shortcodes/soccer-gallery/options.php:24
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-fixtures/options.php:113
+msgid "Order by post id"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog-posts/options.php:61
+#: framework-customizations/extensions/shortcodes/shortcodes/league-detail/options.php:66
+#: framework-customizations/extensions/shortcodes/shortcodes/match-latest-result/options.php:59
+#: framework-customizations/extensions/shortcodes/shortcodes/other-fixture/options.php:25
+#: framework-customizations/extensions/shortcodes/shortcodes/players-grid/options.php:66
+#: framework-customizations/extensions/shortcodes/shortcodes/points-table/options.php:94
+#: framework-customizations/extensions/shortcodes/shortcodes/pro-soccer-history/options.php:52
+#: framework-customizations/extensions/shortcodes/shortcodes/soccer-gallery/options.php:25
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-fixtures/options.php:114
+msgid "Order by author"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog-posts/options.php:62
+#: framework-customizations/extensions/shortcodes/shortcodes/league-detail/options.php:67
+#: framework-customizations/extensions/shortcodes/shortcodes/match-latest-result/options.php:60
+#: framework-customizations/extensions/shortcodes/shortcodes/other-fixture/options.php:26
+#: framework-customizations/extensions/shortcodes/shortcodes/players-grid/options.php:67
+#: framework-customizations/extensions/shortcodes/shortcodes/points-table/options.php:95
+#: framework-customizations/extensions/shortcodes/shortcodes/pro-soccer-history/options.php:53
+#: framework-customizations/extensions/shortcodes/shortcodes/soccer-gallery/options.php:26
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-fixtures/options.php:115
+msgid "Order by title"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog-posts/options.php:63
+#: framework-customizations/extensions/shortcodes/shortcodes/league-detail/options.php:68
+#: framework-customizations/extensions/shortcodes/shortcodes/match-latest-result/options.php:61
+#: framework-customizations/extensions/shortcodes/shortcodes/other-fixture/options.php:27
+#: framework-customizations/extensions/shortcodes/shortcodes/players-grid/options.php:68
+#: framework-customizations/extensions/shortcodes/shortcodes/points-table/options.php:96
+#: framework-customizations/extensions/shortcodes/shortcodes/pro-soccer-history/options.php:54
+#: framework-customizations/extensions/shortcodes/shortcodes/soccer-gallery/options.php:27
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-fixtures/options.php:116
+msgid "Order by post name"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog-posts/options.php:64
+#: framework-customizations/extensions/shortcodes/shortcodes/league-detail/options.php:69
+#: framework-customizations/extensions/shortcodes/shortcodes/match-latest-result/options.php:62
+#: framework-customizations/extensions/shortcodes/shortcodes/other-fixture/options.php:28
+#: framework-customizations/extensions/shortcodes/shortcodes/players-grid/options.php:69
+#: framework-customizations/extensions/shortcodes/shortcodes/points-table/options.php:97
+#: framework-customizations/extensions/shortcodes/shortcodes/pro-soccer-history/options.php:55
+#: framework-customizations/extensions/shortcodes/shortcodes/soccer-gallery/options.php:28
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-fixtures/options.php:117
+msgid "Order by date"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog-posts/options.php:65
+#: framework-customizations/extensions/shortcodes/shortcodes/league-detail/options.php:70
+#: framework-customizations/extensions/shortcodes/shortcodes/match-latest-result/options.php:63
+#: framework-customizations/extensions/shortcodes/shortcodes/other-fixture/options.php:29
+#: framework-customizations/extensions/shortcodes/shortcodes/players-grid/options.php:70
+#: framework-customizations/extensions/shortcodes/shortcodes/points-table/options.php:98
+#: framework-customizations/extensions/shortcodes/shortcodes/pro-soccer-history/options.php:56
+#: framework-customizations/extensions/shortcodes/shortcodes/soccer-gallery/options.php:29
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-fixtures/options.php:118
+msgid "Random order"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog-posts/options.php:66
+#: framework-customizations/extensions/shortcodes/shortcodes/league-detail/options.php:71
+#: framework-customizations/extensions/shortcodes/shortcodes/match-latest-result/options.php:64
+#: framework-customizations/extensions/shortcodes/shortcodes/other-fixture/options.php:30
+#: framework-customizations/extensions/shortcodes/shortcodes/players-grid/options.php:71
+#: framework-customizations/extensions/shortcodes/shortcodes/points-table/options.php:99
+#: framework-customizations/extensions/shortcodes/shortcodes/pro-soccer-history/options.php:57
+#: framework-customizations/extensions/shortcodes/shortcodes/soccer-gallery/options.php:30
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-fixtures/options.php:119
+msgid "Order by number of comments"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog-posts/options.php:73
+#: framework-customizations/extensions/shortcodes/shortcodes/pro-soccer-history/options.php:64
+msgid "Select Posts"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog-posts/options.php:77
+#: framework-customizations/extensions/shortcodes/shortcodes/pro-soccer-history/options.php:68
+msgid "Show posts by post selection."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog-posts/options.php:91
+#: framework-customizations/extensions/shortcodes/shortcodes/league-detail/options.php:82
+#: framework-customizations/extensions/shortcodes/shortcodes/other-fixture/options.php:69
+#: framework-customizations/extensions/shortcodes/shortcodes/points-table/options.php:34
+msgid "Show No of Posts"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog-posts/options.php:96
+#: framework-customizations/extensions/shortcodes/shortcodes/pro-soccer-history/options.php:87
+msgid "Show Pagination"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog-posts/options.php:99
+#: framework-customizations/extensions/shortcodes/shortcodes/image-frame/options.php:62
+#: framework-customizations/extensions/shortcodes/shortcodes/pro-soccer-history/options.php:90
+msgid "No"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog-posts/options.php:109
+#: framework-customizations/extensions/shortcodes/shortcodes/pro-soccer-history/options.php:100
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-match/options.php:33
+msgid "Show Description"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog-posts/options.php:113
+#: framework-customizations/extensions/shortcodes/shortcodes/pro-soccer-history/options.php:104
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-match/options.php:37
+msgid "Hide Description"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog-posts/options.php:124
+#: framework-customizations/extensions/shortcodes/shortcodes/pro-soccer-history/options.php:115
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-match/options.php:48
+msgid "Excerpt length"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/clients-logo/config.php:9
+msgid "Client Logos"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/clients-logo/config.php:10
+msgid "Display Company/Clients Logos as a slider."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/clients-logo/options.php:24
+msgid "Logo Image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/clients-logo/options.php:31
+msgid "Client Name"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/clients-logo/options.php:33
+msgid "Add Client Name."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/clients-logo/options.php:36
+msgid "Sponsers In"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/clients-logo/options.php:38
+msgid "Add Sponsers in eg: sponsored in 2016"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/clients-logo/options.php:41
+msgid "URL"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/clients-logo/options.php:44
+msgid "Add client url."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/clients-logo/options.php:48
+msgid "Upload Image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/clients-logo/options.php:49
+msgid "Upload your image."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:13
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:88
+msgid "Custom Classes"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:14
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:89
+msgid "Add Custom Classes"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:21
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:96
+msgid "Margin"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:27
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:33
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:39
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:45
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:102
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:108
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:114
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:120
+msgid ""
+"add margin, Leave it empty to hide, Note: add only integer value as : 10"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:38
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:113
+msgid "Margin Left"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:44
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:119
+msgid "Margin Right"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:51
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:126
+msgid "Padding"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:56
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:131
+msgid "Padding Top"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:57
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:63
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:69
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:75
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:132
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:138
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:144
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:150
+msgid ""
+"add padding, Leave it empty to hide, Note: add only integer value as : 10"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:62
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:137
+msgid "Padding Bottom"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:68
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:143
+msgid "Padding Left"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:74
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:149
+msgid "Padding Right"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:81
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:84
+msgid "Responsive Settings"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:85
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:120
+msgid "Show/hide Small Screen Settings"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:101
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:136
+msgid "Small Screen Class"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:102
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:137
+msgid "Choose Your Small Screen Class"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:104
+msgid "col-sm-1"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:105
+msgid "col-sm-2"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:106
+msgid "col-sm-3"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:107
+msgid "col-sm-4"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:108
+msgid "col-sm-5"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:109
+msgid "col-sm-6"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:110
+msgid "col-sm-7"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:111
+msgid "col-sm-8"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:112
+msgid "col-sm-9"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:113
+msgid "col-sm-10"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:114
+msgid "col-sm-11"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:115
+msgid "col-sm-12"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:119
+msgid "Extrasmall Settings"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:139
+msgid "col-xs-1"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:140
+msgid "col-xs-2"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:141
+msgid "col-xs-3"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:142
+msgid "col-xs-4"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:143
+msgid "col-xs-5"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:144
+msgid "col-xs-6"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:145
+msgid "col-xs-7"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:146
+msgid "col-xs-8"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:147
+msgid "col-xs-9"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:148
+msgid "col-xs-10"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:149
+msgid "col-xs-11"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:150
+msgid "col-xs-12"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-box/config.php:7
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-box/config.php:8
+msgid "Contact info boxes"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-box/options.php:10
+msgid "Infobox"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-box/options.php:22
+msgid "Subtitle"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-box/options.php:35
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/options.php:27
+msgid "Information"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-box/options.php:36
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/options.php:28
+msgid "Add icons and details here"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/config.php:7
+msgid "Contact Info"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/config.php:8
+msgid "Contact Information with Icons"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/options.php:14
+msgid "Short Description"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/counter/config.php:9
+#: framework-customizations/extensions/shortcodes/shortcodes/counter/options.php:15
+msgid "Counter"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/counter/config.php:10
+msgid "Display Counter"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/counter/options.php:10
+msgid "Add Counter"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/counter/options.php:19
+msgid "Counter Title"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/counter/options.php:22
+msgid "Add counter title"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/counter/options.php:31
+msgid "Start Number"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/counter/options.php:34
+msgid "Add counter start"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/counter/options.php:37
+msgid "End Number"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/counter/options.php:40
+msgid "Add counter end"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/counter/options.php:51
+msgid "Interval"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/counter/options.php:52
+msgid "add interval"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/counter/options.php:63
+msgid "Speed"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/counter/options.php:64
+msgid "add speed"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/google-map/config.php:7
+msgid "Map"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/google-map/config.php:8
+msgid "Display Map"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/google-map/options.php:11
+msgid "Add height in PX as : 200, Default is 400"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/image-frame/config.php:9
+#: framework-customizations/extensions/shortcodes/shortcodes/image-frame/options.php:12
+#: framework-customizations/extensions/shortcodes/shortcodes/image-frame/views/view.php:29
+#: framework-customizations/extensions/shortcodes/shortcodes/image-frame/views/view.php:35
+msgid "Image Frame"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/image-frame/config.php:10
+msgid "Add an Image."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/image-frame/options.php:24
+msgid "Choose Image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/image-frame/options.php:25
+msgid ""
+"Either upload a new, or choose an existing image from your media library"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/image-frame/options.php:32
+msgid "Width"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/image-frame/options.php:33
+msgid "Set image width"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/image-frame/options.php:39
+msgid "Set image height"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/image-frame/options.php:49
+msgid "Image Link"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/image-frame/options.php:50
+msgid "Where should your image link to?"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/image-frame/options.php:54
+msgid "Open Link in New Window"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/image-frame/options.php:55
+msgid "Select here if you want to open the linked page in a new window"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/league-detail/config.php:9
+msgid "League Detail"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/league-detail/config.php:10
+msgid "Display League Detail"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/league-detail/options.php:11
+#: framework-customizations/extensions/shortcodes/shortcodes/league-detail/options.php:12
+#: framework-customizations/extensions/shortcodes/shortcodes/match-latest-result/options.php:46
+#: framework-customizations/extensions/shortcodes/shortcodes/other-fixture/options.php:11
+#: framework-customizations/extensions/shortcodes/shortcodes/other-fixture/options.php:12
+#: framework-customizations/extensions/shortcodes/shortcodes/players-grid/options.php:52
+#: framework-customizations/extensions/shortcodes/shortcodes/players-grid/options.php:53
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-fixtures/options.php:100
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-fixtures/options.php:101
+msgid "Order"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/league-detail/options.php:27
+#: framework-customizations/extensions/shortcodes/shortcodes/points-table/options.php:55
+msgid "League selection type."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/league-detail/options.php:28
+#: framework-customizations/extensions/shortcodes/shortcodes/points-table/options.php:56
+msgid "League By"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/league-detail/options.php:31
+#: framework-customizations/extensions/shortcodes/shortcodes/points-table/options.php:59
+msgid "By Post"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/league-detail/options.php:43
+#: framework-customizations/extensions/shortcodes/shortcodes/points-table/options.php:71
+msgid "Show Leagues by category selection."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/league-detail/options.php:49
+#: framework-customizations/extensions/shortcodes/shortcodes/points-table/options.php:77
+msgid "Select Leagues"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/league-detail/options.php:53
+#: framework-customizations/extensions/shortcodes/shortcodes/points-table/options.php:81
+msgid "Show Leagues by selection."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/match-latest-result/config.php:9
+msgid "Match latest results"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/match-latest-result/config.php:10
+msgid "Display match latest results"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/match-latest-result/options.php:15
+msgid "View Type"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/match-latest-result/options.php:18
+msgid "View 1"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/match-latest-result/options.php:21
+msgid "Select result listing type."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/match-latest-result/options.php:45
+msgid "Please seelct result order"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/match-latest-result/options.php:56
+msgid "Please select result order by"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/match-latest-result/options.php:75
+msgid "Show no of results"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/other-fixture/config.php:9
+msgid "Other Fixtrures"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/other-fixture/config.php:10
+msgid "Display Other Fixtrures"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/players-grid/config.php:10
+msgid "Display players grid section"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/players-grid/options.php:17
+msgid "Player get type"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/players-grid/options.php:18
+msgid "Please select type, how you want to get players."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/players-grid/options.php:21
+msgid "By Player"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/players-grid/options.php:33
+msgid "Show players by category selection."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/players-grid/options.php:39
+msgid "Select player"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/players-grid/options.php:43
+msgid "Show player by selection."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/points-table/config.php:9
+msgid "League Table"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/points-table/config.php:10
+msgid "Display the teams points table"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/points-table/options.php:12
+msgid "Add table title"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/points-table/options.php:15
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-match/options.php:9
+msgid "Texture Background"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/points-table/options.php:18
+msgid "Upload the texture image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/points-table/options.php:24
+msgid "Upload the Image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/points-table/options.php:39
+#: framework-customizations/extensions/shortcodes/shortcodes/points-table/options.php:90
+msgid "Post Order"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/points-table/options.php:105
+msgid "Leave it empty to hide."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/points-table/options.php:106
+msgid "Button title"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pro-soccer-history/config.php:9
+#: framework-customizations/extensions/shortcodes/shortcodes/pro-soccer-history/config.php:10
+msgid "Pro Soccor History"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pro-soccer-history/options.php:17
+msgid "Enable/Disbale Site Boxed View"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pro-soccer-history/options.php:82
+msgid "Show no of posts to show."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/config.php:5
+#: framework-customizations/extensions/shortcodes/shortcodes/column/includes/page-builder-column-item/class-page-builder-column-item.php:117
+#: framework-customizations/extensions/shortcodes/shortcodes/section/includes/page-builder-section-item/class-page-builder-section-item.php:22
+msgid "Layout Elements"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/config.php:6
+#: framework-customizations/extensions/shortcodes/shortcodes/section/includes/page-builder-section-item/class-page-builder-section-item.php:23
+msgid "Section"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/config.php:7
+msgid "Add a Section"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:10
+msgid "Genral Settings"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:13
+#: framework-customizations/extensions/shortcodes/shortcodes/section-heading/config.php:6
+msgid "Section Heading"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:14
+msgid "Enter Your Section Heading Here"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:21
+msgid "Section Settings"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:22
+msgid "Select Section Settings"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:25
+msgid "Stretch Section"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:26
+msgid "Stretch Section With Contents"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:27
+msgid "Stretch Section With Contents(No Padding)"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:32
+msgid "Please select the background color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:37
+msgid "Please select the background image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:46
+msgid "Background Repeat"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:47
+msgid "Repeat Background"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:49
+msgid "No Repeat"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:50
+msgid "Repeat"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:51
+msgid "Repeat X"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:52
+msgid "Repeat Y"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:63
+msgid "Background position Horizontally"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:64
+msgid "Position X, IN ( % )"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:74
+msgid "Background position Vertically"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:75
+msgid "Position Y, IN ( % )"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:78
+msgid "Background Video"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:79
+msgid "Insert Video URL to embed this video"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:83
+msgid "Custom ID"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:84
+msgid "Add Custom ID"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:156
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:159
+msgid "Parallax"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:160
+msgid "Use background image as parallax."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:180
+msgid "Parallax Data Bleed"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:186
+msgid "Parallax Speed"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:187
+msgid "Choose Your Parallax Speed"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:189
+msgid "0"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:190
+msgid "0.1"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:191
+msgid "0.2"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:192
+msgid "0.3"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:193
+msgid "0.4"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:194
+msgid "0.5"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:195
+msgid "0.6"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:196
+msgid "0.7"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:197
+msgid "0.8"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:198
+msgid "0.9"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:199
+msgid "1.0"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:215
+msgid "Section Sidebar"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:231
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:241
+msgid "Select Sidebar"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:232
+msgid "Select Left Sidebar"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:242
+msgid "Select Right Sidebar"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section-heading/config.php:7
+msgid "Add a Section Heading"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section-heading/options.php:8
+msgid "Heading Title"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section-heading/options.php:9
+msgid "Write the heading title content"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section-heading/options.php:14
+msgid "Write the Description content"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/soccer-gallery/config.php:9
+msgid "Soccor Match Gallery"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/soccer-gallery/config.php:10
+msgid "Display Soccor Match Gallery"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/soccer-gallery/options.php:39
+msgid "Gallery"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/soccer-gallery/options.php:40
+msgid "Scroll Gallery"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/soccer-gallery/options.php:48
+msgid "Show gallery by category selection."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/soccer-gallery/options.php:58
+msgid "No of Topics"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/soccer-gallery/options.php:64
+msgid "YES"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/soccer-gallery/options.php:67
+msgid "Filterable"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/soccer-textblock/config.php:9
+msgid "Text Block"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/soccer-textblock/config.php:10
+msgid "Display Text Block"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonial/config.php:9
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonial/options.php:15
+msgid "Testimonial"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonial/config.php:10
+msgid "Display Testimonial"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonial/options.php:10
+msgid "Add Testimonial"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonial/options.php:19
+msgid "Testimonial Title"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonial/options.php:22
+msgid "Add testimonial title"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonial/options.php:28
+msgid "Add testimonial description"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonial/options.php:43
+msgid "Add testimonial image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-fixtures/config.php:9
+msgid "Upcoming fixtures"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-fixtures/config.php:10
+msgid "Display upcoming fixtures"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-fixtures/options.php:18
+msgid "Carousel View 1"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-fixtures/options.php:19
+msgid "Carousel View 2"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-fixtures/options.php:20
+msgid "List View"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-fixtures/options.php:54
+msgid "Number of posts"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-fixtures/options.php:55
+msgid "Number of posts to show."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-fixtures/options.php:66
+msgid "Fixtures selection type."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-fixtures/options.php:67
+msgid "Fixtures By"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-fixtures/options.php:70
+msgid "By Fixtures"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-fixtures/options.php:82
+msgid "Show fixtures by category selection."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-fixtures/options.php:88
+msgid "Select fixtures"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-fixtures/options.php:91
+msgid "Show fixtures by selection."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-match/config.php:9
+msgid "Fixture Single View"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-match/config.php:10
+msgid "Display Upcoming Match, It will display only single selected match."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-match/options.php:12
+msgid "Upload background texture image."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-match/options.php:18
+msgid "Upload left image."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-match/options.php:21
+msgid "Select match"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-match/options.php:25
+msgid "Please select match."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/video/config.php:9
+msgid "Video"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/video/config.php:10
+msgid "Display Video"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/video/options.php:16
+msgid "video url"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/video/options.php:21
+msgid "Upload the image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog-posts/views/grid.php:124
+#: framework-customizations/extensions/shortcodes/shortcodes/blog-posts/views/list.php:119
+msgid "Read more"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact/views/view.php:15
+msgid "Name*"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact/views/view.php:18
+msgid "Email*"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact/views/view.php:21
+msgid "Subject*"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact/views/view.php:24
+msgid "Message*"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/league-detail/views/view.php:94
+msgid "home"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/league-detail/views/view.php:95
+msgid "away"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/league-detail/views/view.php:96
+msgid "overall"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/league-detail/views/view.php:99
+msgid "pos"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/league-detail/views/view.php:100
+msgid "team"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/league-detail/views/view.php:101
+msgid "p"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/league-detail/views/view.php:102
+#: framework-customizations/extensions/shortcodes/shortcodes/league-detail/views/view.php:107
+#: framework-customizations/extensions/shortcodes/shortcodes/league-detail/views/view.php:112
+#: framework-customizations/extensions/shortcodes/shortcodes/points-table/views/view.php:133
+msgid "w"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/league-detail/views/view.php:103
+#: framework-customizations/extensions/shortcodes/shortcodes/league-detail/views/view.php:108
+#: framework-customizations/extensions/shortcodes/shortcodes/league-detail/views/view.php:113
+#: framework-customizations/extensions/shortcodes/shortcodes/points-table/views/view.php:136
+msgid "d"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/league-detail/views/view.php:104
+#: framework-customizations/extensions/shortcodes/shortcodes/league-detail/views/view.php:109
+#: framework-customizations/extensions/shortcodes/shortcodes/league-detail/views/view.php:114
+#: framework-customizations/extensions/shortcodes/shortcodes/points-table/views/view.php:139
+msgid "l"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/league-detail/views/view.php:105
+#: framework-customizations/extensions/shortcodes/shortcodes/league-detail/views/view.php:110
+msgid "f"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/league-detail/views/view.php:106
+#: framework-customizations/extensions/shortcodes/shortcodes/league-detail/views/view.php:111
+msgid "a"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/league-detail/views/view.php:115
+msgid "gd"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/league-detail/views/view.php:116
+msgid "pts"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/match-latest-result/views/view_2.php:154
+#: framework-customizations/extensions/shortcodes/shortcodes/other-fixture/views/view.php:63
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-fixtures/views/carousel-two.php:161
+msgid "vs"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/match-latest-result/views/view_2.php:163
+msgid "view result"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/other-fixture/views/view.php:74
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-fixtures/views/carousel.php:163
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-fixtures/views/list.php:159
+msgid "read more"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/other-fixture/views/view.php:75
+#: framework-customizations/extensions/shortcodes/shortcodes/upcoming-fixtures/views/carousel-two.php:177
+msgid "book my ticket"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/points-table/views/view.php:142
+msgid "pt"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pro-soccer-history/views/view.php:106
+msgid "posted on "
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/soccer-gallery/views/gallery.php:118
+#: framework-customizations/extensions/shortcodes/shortcodes/soccer-gallery/views/gallery.php:133
+#: framework-customizations/extensions/shortcodes/shortcodes/soccer-gallery/views/scroll-gallery.php:119
+#: framework-customizations/extensions/shortcodes/shortcodes/soccer-gallery/views/scroll-gallery.php:134
+msgid "in"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/includes/page-builder-column-item/class-page-builder-column-item.php:73
+msgid "Edit"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/includes/page-builder-column-item/class-page-builder-column-item.php:74
+msgid "Duplicate"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/includes/page-builder-column-item/class-page-builder-column-item.php:75
+msgid "Remove"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/includes/page-builder-column-item/class-page-builder-column-item.php:76
+msgid "Column"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/includes/page-builder-column-item/class-page-builder-column-item.php:120
+#, php-format
+msgid "Add a %s column"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/includes/template-component/class-fw-ext-builder-templates-component-column.php:12
+msgid "Columns"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/includes/template-component/class-fw-ext-builder-templates-component-column.php:47
+msgid "No Templates Saved"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/includes/template-component/class-fw-ext-builder-templates-component-column.php:50
+msgid "Load Template"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/includes/template-component/class-fw-ext-builder-templates-component-column.php:91
+msgid "Template Name"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/includes/template-component/class-fw-ext-builder-templates-component-column.php:92
+msgid "Save Column"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/includes/template-component/class-fw-ext-builder-templates-component-column.php:93
+msgid "Save as Template"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/includes/template-component/class-fw-ext-builder-templates-component-column.php:174
+msgid "No Title"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/includes/page-builder-section-item/class-page-builder-section-item.php:24
+msgid "Creates a section"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Soccer Acumen is a modern and creative WordPress theme specifically designed "
+"for Soccer and Football clubs, but could also be used for any other sports "
+"club or sports event.It has very attractive home pages and highly useful "
+"inner pages to provide important features needed by sports clubs."
+msgstr ""
+
+#. URI of the theme
+msgid "http://soccer.exprostudio.com/"
+msgstr ""
+
+#. Author of the theme
+msgid "Expro Studio"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themeforest.net/user/exprostudio"
+msgstr ""

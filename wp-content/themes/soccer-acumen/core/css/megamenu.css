@@ -1,0 +1,51 @@
+/*--Mega Menu--*/
+.soccer-acumen-mega-menu-options {
+	margin-top: 10px;
+}
+
+.birdseye-menu-style,
+.field-megamenu-status,
+.field-megamenu-width,
+.field-megamenu-columns,
+.field-megamenu-columnwidth,
+.field-megamenu-title,
+.field-megamenu-widgetarea,
+.birdseye-megamenu-upload-thumbnail.button-primary,
+.field-megamenu-thumbnail,
+.birdseye-megamenu-thumbnail-image {
+	display: none;
+}
+
+.menu-item-depth-0 .fusion-menu-style,
+.menu-item-depth-0 .field-megamenu-status,
+.menu-item-depth-0 .soccer-acumen-mega-menu-options .field-megamenu-width,
+.menu-item-depth-0 .soccer-acumen-mega-menu-options .field-megamenu-columns,
+.menu-item-depth-1 .soccer-acumen-mega-menu-options.field-megamenu-columnwidth,
+.menu-item-depth-1 .soccer-acumen-mega-menu-options .field-megamenu-title,
+.menu-item-depth-1 .soccer-acumen-mega-menu-options .field-megamenu-widgetarea,
+.menu-item-depth-2 .soccer-acumen-mega-menu-options .field-megamenu-widgetarea,
+.birdseye-megamenu .field-megamenu-thumbnail {
+	display: block;
+}
+
+.menu-item-depth-1.birdseye-megamenu.birdseye-megamenu-fullwidth .field-megamenu-columnwidth {
+	display: none;
+}
+
+.birdseye-megamenu .birdseye-megamenu-upload-thumbnail {
+	display: inline-block;
+}
+
+.birdseye-megamenu-thumbnail-image {
+	max-width: 300px;
+}
+
+.menu-item-depth-0 .birdseye-megamenu-upload-thumbnail,
+.menu-item-depth-1 .birdseye-megamenu-upload-thumbnail,
+.menu-item-depth-2 .birdseye-megamenu-upload-thumbnail {
+	margin-top: 0 !important;
+}
+
+.birdseye-megamenu-upload-thumbnail {
+	margin-top: 0.6em !important;
+}

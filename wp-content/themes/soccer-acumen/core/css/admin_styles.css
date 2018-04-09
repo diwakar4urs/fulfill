@@ -1,0 +1,72 @@
+/*
+ * @Theme Admin Style
+*/
+
+.order-media-style{border:1px solid #dfdfdf; border-radius:5px; padding:5px; margin-right:5px; height=100px; width=100px;}
+.avatar-src-style{border: 1px solid #dfdfdf;padding: 5px;background: #FFF;border-radius: 5px;}
+.portfolio-thumnail-image{ border:1px solid #dfdfdf; padding:5px; width:50px; height:50px;}
+.data-services{ float:left; width:100%; position:relative;}
+
+.data-services .data-day{ float:left; width:30%;}
+.data-services .data-hours{ float:left; width:30%; margin-left:10px;}
+.data-services .data-closed{ float:left; width:24%; margin-left:10px; padding-top:23px;}
+.data-del {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.delete-me i {
+	border: 1px solid #999;
+    color: #999;
+    padding: 4px 7px;
+}
+.elm-display-none{ display:none !important;}
+.backgroud-image{ position:relative;}
+.delete-auhtor-media{
+	position: absolute;
+    left: -10px;
+    background: #363636;
+    border-radius: 100%;
+    width: 18px;
+    height: 19px;
+    text-align: center;
+    color: #FFF;
+    font-size: 14px;
+}
+.delete-auhtor-media:hover{color:#FFF;}
+
+.wp-picker-container .iris-picker *, .wp-picker-container .iris-picker {
+    -webkit-box-sizing: content-box !important;
+    -moz-box-sizing: content-box !important;
+    box-sizing: content-box !important;
+}
+.wp-picker-container a{
+    outline: none;
+    box-shadow: none;
+}
+.wp-picker-holder{
+    margin-top: 0px;
+    float: left;
+}
+.wp-picker-open{
+    float: left;
+}
+.wp-picker-clear{
+    float: left;
+    height: 28px !important;
+}
+.wp-color-result {
+    height: 25px;
+}
+.wp-color-result:after {
+    line-height: 25px;
+    border-bottom: 1px solid #F1F1F1;
+}
+.wp-color-result:focus::after,
+.wp-color-result:hover::after {
+    border-color:#DDDDDD #DDDDDD #DDDDDD #DDDDDD;
+}
+.wp-picker-active .wp-color-picker{
+    height: 29px !important;
+    margin-left: 10px !important;
+}
